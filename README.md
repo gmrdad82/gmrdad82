@@ -2,7 +2,7 @@
 
 I'm Catalin Ilinca (Tech Wizard). I have a strong passion for technology. I've been building apps and services since 1998.
 
-I've coded in Ruby, Javascript, Node, C#, PHP, Swift, Objective C, Python, Go, R, Visual Basic.
+I've coded in Ruby, Javascript, Node, C#, PHP, Swift, Objective C, Python, Go, R, Visual Basic. I have strong experience with AWS cloud, DevOps services, System Architecture and iOS mobile development.
 
 🎮 My present area of interest is Game development and Retro Pixel art.
 
