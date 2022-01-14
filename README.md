@@ -8,13 +8,9 @@ I've coded in Ruby, Javascript, Node, C#, PHP, Swift, Objective C, Python, Go, R
 
 Feel free to follow me using the links bellow:
 
---
-
-Website: [techwizard.ro](https://techwizard.ro)
-
-Twitter: [@techwizardro](http://twitter.com/techwizardro)
-
-Email: [catalin@techwizard.ro](mailto:catalin@techwizard.ro)
+* Website: [techwizard.ro](https://techwizard.ro)
+* Twitter: [@techwizardro](http://twitter.com/techwizardro)
+* Email: [catalin@techwizard.ro](mailto:catalin@techwizard.ro)
 
 --
 
