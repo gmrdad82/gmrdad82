@@ -1,4 +1,4 @@
-# Hi there 👋
+# Greetings stranger 👋
 
 I'm Catalin Ilinca (Tech Wizard). I have a strong passion for technology. I've been building apps and services since 1998.
 
