@@ -32,8 +32,6 @@ Feel free to follow me using the links bellow:
 * Software Architect, Software Engineer, DevOps Engineer.
 * Big or small projects, big or small teams, agile or slow teams, awesome or legacy code.
 
-+++
-
 ### Long and booooring version
 
 ## ThoughtWorks 2018 - Present
@@ -58,7 +56,7 @@ Feel free to follow me using the links bellow:
 * **Highlights:**
     * Continuous development and Integration using GitHub, Jira, CodeShip, Docker and AWS EC2.
     * Blockchain integration with Ruby on Rails API.
-    * PDF and Graphic manipulation and generation.
+    * PDF (and various image) manipulation and generation.
 
 - - -
 
