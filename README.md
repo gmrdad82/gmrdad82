@@ -14,9 +14,9 @@ Feel free to follow me using the links bellow:
 
 ---
 
-#### Catalin Ilinca | **Software Engineer & System Architect**
+## Catalin Ilinca | **Software Engineer & System Architect**
 
-## ThoughtWorks 2018 - Present
+#### ThoughtWorks 2018 - Present
 
 * Software Engineer.
 * Projects:
@@ -27,7 +27,7 @@ Feel free to follow me using the links bellow:
 
 - - -
 
-## Tech Wizard 2017 - Present
+#### Tech Wizard 2017 - Present
 
 * Founder.
 * Projects:
@@ -42,7 +42,19 @@ Feel free to follow me using the links bellow:
 
 - - -
 
-# 2Performant 2015 - 2017
+#### 2Performant 2017 - Present
+
+* DevOps Engineer.
+* Responsabilities:
+    * AWS Infrastructure Architecture.
+    * Service uptime and reliability.
+    * Backup and Data integrity.
+    * Data protection and security.
+* **Technologies:** AWS.
+
+- - -
+
+#### 2Performant 2015 - 2017
 
 * Tech Lead with many accomplishments:
     * Infrastructure migration form _Metal_ to AWS Cloud.
@@ -63,7 +75,7 @@ Feel free to follow me using the links bellow:
 
 - - -
 
-# Deindeal.ch 2015
+#### Deindeal.ch 2015
 
 * Ruby on Rails developer.
 * **Technologies:** Ruby on Rails, MonhoDB, PostgreSQL, Sphere.io.
@@ -73,7 +85,7 @@ Feel free to follow me using the links bellow:
 
 - - -
 
-# Intuo 2013 - 2015
+#### Intuo 2013 - 2015
 
 * Lead Developer for intuo.io.
 * Successfully pushed the platform in the early stages of the seeding rounds.
@@ -83,7 +95,7 @@ Feel free to follow me using the links bellow:
 
 - - -
 
-# 2Parale 2013 - 2015
+#### 2Parale 2013 - 2015
 
 * Lead Developer and Architect for www.2parale.ro, migrated to 2performant.com, the biggest Affiliate Marketing platform in Romania.
 * **Technologies:** Ruby on Rails, Sinatra, RSpec, MySQL, MongoDB, HTML5, Angular.js, jQuery, CoffeeScript, Memcached, Solr, Sphinx, nginx, Puma, Unicorn, Capistrano.
@@ -95,7 +107,7 @@ Feel free to follow me using the links bellow:
 
 - - -
 
-# Catalyst Worldwide 2012 - 2013
+#### Catalyst Worldwide 2012 - 2013
 
 * Ruby on Rails Lead Developer.
 * Software development for different US customers like McDonald’s US and stylitics.com.
@@ -104,7 +116,7 @@ Feel free to follow me using the links bellow:
 
 - - -
 
-# Freelancer 2006 - 2012
+#### Freelancer 2006 - 2012
 
 * Various websites, web applications APIs, iOS apps.
 * **Technologies:** Ruby on Rails, Objective C.
