@@ -14,8 +14,7 @@ Feel free to follow me using the links bellow:
 
 ---
 
-#### Catalin Ilinca - Professional Resume
-**Software Engineer & System Architect**
+#### Catalin Ilinca | **Software Engineer & System Architect**
 
 ## ThoughtWorks 2018 - Present
 
