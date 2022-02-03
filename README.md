@@ -25,8 +25,6 @@ Feel free to follow me using the links bellow:
 	* **SWRVE** - developed platform audit tool using Ruby on Rails and MySQL.
 * Technologies: Ruby on Rails, GraphQL, Docker, AWS, MySQL, Redis, Sidekiq, nodeJS.
 
-- - -
-
 #### Tech Wizard 2017 - Present
 
 * Founder.
@@ -40,8 +38,6 @@ Feel free to follow me using the links bellow:
     * Blockchain integration with Ruby on Rails API.
     * PDF (and various image) manipulation and generation.
 
-- - -
-
 #### 2Performant 2017 - Present
 
 * DevOps Engineer.
@@ -51,8 +47,6 @@ Feel free to follow me using the links bellow:
     * Backup and Data integrity.
     * Data protection and security.
 * **Technologies:** AWS.
-
-- - -
 
 #### 2Performant 2015 - 2017
 
@@ -73,8 +67,6 @@ Feel free to follow me using the links bellow:
     * Designed and implemented a resilient infrastructure without any single point of failure, with failsafe and recovery instances for every critical service.
     * Ingested more than 5m unique clicks / month and peaks of more than 2m clicks / day (on special events).
 
-- - -
-
 #### Deindeal.ch 2015
 
 * Ruby on Rails developer.
@@ -83,8 +75,6 @@ Feel free to follow me using the links bellow:
     * Database layer migration from MongoDB to PostgreSQL.
     * Unified mobile - desktop shopping cart.
 
-- - -
-
 #### Intuo 2013 - 2015
 
 * Lead Developer for intuo.io.
@@ -92,8 +82,6 @@ Feel free to follow me using the links bellow:
 * **Technologies:** Ruby on Rails, EmberJS, Rspec, Capistrano.
 * **Infrastructure:** Azure Cloud.
 * **Highlights:** platform architecture migration from a single tenant design to a multi-tenant design.
-
-- - -
 
 #### 2Parale 2013 - 2015
 
@@ -105,16 +93,12 @@ Feel free to follow me using the links bellow:
   * iOS application using Objective C.
   * Upgrade legacy code from Ruby 1.9.3 to 2.2.x and from Ruby on Rails 3.x to 4.x.
 
-- - -
-
 #### Catalyst Worldwide 2012 - 2013
 
 * Ruby on Rails Lead Developer.
 * Software development for different US customers like McDonald’s US and stylitics.com.
 * **Technologies:** Ruby on Rails, RSpec, Cucumber, MySQL, PostgreSQL, MongoDB, Redis, Twitter Bootstrap, Zurb Foundation, jQuery, d3.js, Underscore.js, Mustache, Backbone.js, Ember.js, Memcached, Unicorn, Puma, nginx, HTML5, R, Git, Photoshop, Adobe Flash.
 * **Highlights:** custom data visualisations using Ruby on Rails, R and d3.js.
-
-- - -
 
 #### Freelancer 2006 - 2012
 
