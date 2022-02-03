@@ -1,4 +1,4 @@
-#### Greetings stranger 👋
+Greetings stranger 👋,
 
 I'm Catalin Ilinca (Tech Wizard) and I have a strong passion for technology.
 
@@ -14,8 +14,8 @@ Feel free to follow me using the links bellow:
 
 ---
 
-# Catalin Ilinca - Professional Resume
-### Software Engineer & System Architect
+#### Catalin Ilinca - Professional Resume
+#### Software Engineer & System Architect
 
 - - -
 
