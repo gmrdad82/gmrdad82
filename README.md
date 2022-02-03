@@ -1,10 +1,10 @@
 # Greetings stranger 👋
 
-I'm Catalin Ilinca (Tech Wizard). I have a strong passion for technology. I've been building apps and services since 1998.
+I'm Catalin Ilinca (Tech Wizard) and I have a strong passion for technology.
 
 I've coded in Ruby, Javascript, Node, C#, PHP, Swift, Objective C, Python, Go, R, Visual Basic. I have strong experience with AWS cloud, DevOps services, System Architecture and iOS mobile development.
 
-🎮 My present area of interest is Game development and Retro Pixel art.
+🎮 I'm also interested in Game development and Retro Pixel art.
 
 Feel free to follow me using the links bellow:
 
@@ -12,29 +12,13 @@ Feel free to follow me using the links bellow:
 * Twitter: [@techwizardro](http://twitter.com/techwizardro)
 * Email: [catalin@techwizard.ro](mailto:catalin@techwizard.ro)
 
---
+---
 
 # Catalin Ilinca - Professional Resume
 
 * Software Engineer & System Architect
 
 - - -
-
-### TL;DR
-
-* Web development since 2003.
-* iOS development since 2019.
-* Cloud computing since 2013.
-* Architecture and Infrastructure since 2013.
-* Countless Git commits and lines of code.
-* Proficient design.
-* Scalable high availability web services.
-* Software Architect, Software Engineer, DevOps Engineer.
-* Big or small projects, big or small teams, agile or slow teams, awesome or legacy code.
-
-+++
-
-### Long and booooring version
 
 ## ThoughtWorks 2018 - Present
 
