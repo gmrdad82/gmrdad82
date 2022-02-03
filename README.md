@@ -1,4 +1,4 @@
-# Greetings stranger 👋
+#### Greetings stranger 👋
 
 I'm Catalin Ilinca (Tech Wizard) and I have a strong passion for technology.
 
@@ -15,8 +15,7 @@ Feel free to follow me using the links bellow:
 ---
 
 # Catalin Ilinca - Professional Resume
-
-* Software Engineer & System Architect
+### Software Engineer & System Architect
 
 - - -
 
@@ -42,7 +41,7 @@ Feel free to follow me using the links bellow:
 * **Highlights:**
     * Continuous development and Integration using GitHub, Jira, CodeShip, Docker and AWS EC2.
     * Blockchain integration with Ruby on Rails API.
-    * PDF and Graphic manipulation and generation.
+    * PDF (and various image) manipulation and generation.
 
 - - -
 
