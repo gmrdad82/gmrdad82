@@ -1,6 +1,6 @@
 👋 Greetings stranger,
 
-I'm Catalin Ilinca / Tech Wizard.
+🪪 I'm Catalin Ilinca / Tech Wizard.
 
 ❤️ I have a strong passion for technology, gaming and history.
 
