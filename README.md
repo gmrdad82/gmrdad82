@@ -1,12 +1,14 @@
-Greetings stranger 👋,
+👋 Greetings stranger,
 
-I'm Catalin Ilinca (Tech Wizard) and I have a strong passion for technology.
+I'm Catalin Ilinca / Tech Wizard.
 
-I've coded in Ruby, Javascript, Node, C#, PHP, Swift, Objective C, Python, Go, R, Visual Basic. I have strong experience with AWS cloud, DevOps services, System Architecture and iOS mobile development.
+❤️ I have a strong passion for technology, gaming and history.
 
-🎮 I'm also interested in Game development and Retro Pixel art.
+👨‍💻 I've coded in Ruby, Javascript, Node, C#, PHP, Swift, Objective C, Python, Go, R, Visual Basic.
 
-Feel free to follow me using the links bellow:
+🎮 I'm very interested in Game development, especially in Unreal Engine, and Retro Pixel art.
+
+🫵 Feel free to follow me using the links bellow:
 
 * Website: [techwizard.ro](https://techwizard.ro)
 * Twitter: [@techwizardro](http://twitter.com/techwizardro)
