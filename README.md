@@ -15,15 +15,13 @@
 
 ---
 
-## Catalin Ilinca | **Software Engineer**
+## Catalin Ilinca | **Software Engineer & System Architect**
 
 #### Toptal 2022 - 2023
 
 * Software Engineer - Core Team member.
 * Projects: [www.toptal.com](https://www.toptal.com)
 * Technologies: Ruby on Rails, GraphQL, Docker, AWS, MySQL, Redis, Sidekiq, nodeJS.
-
-## Catalin Ilinca | **Software Engineer**
 
 #### ThoughtWorks 2018 - 2022
 
