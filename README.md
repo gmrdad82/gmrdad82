@@ -11,14 +11,21 @@
 🫵 Feel free to follow me using the links bellow:
 
 * Website: [techwizard.ro](https://techwizard.ro)
-* Twitter: [@techwizardro](http://twitter.com/techwizardro)
 * Email: [catalin@techwizard.ro](mailto:catalin@techwizard.ro)
 
 ---
 
-## Catalin Ilinca | **Software Engineer & System Architect**
+## Catalin Ilinca | **Software Engineer**
 
-#### ThoughtWorks 2018 - Present
+#### Toptal 2022 - 2023
+
+* Software Engineer - Core Team member.
+* Projects: [www.toptal.com](https://www.toptal.com)
+* Technologies: Ruby on Rails, GraphQL, Docker, AWS, MySQL, Redis, Sidekiq, nodeJS.
+
+## Catalin Ilinca | **Software Engineer**
+
+#### ThoughtWorks 2018 - 2022
 
 * Software Engineer.
 * Projects:
