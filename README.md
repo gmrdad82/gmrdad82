@@ -16,9 +16,9 @@
 ---
 
 # Catalin Ilinca
-### **Software Engineer, System Architect & Indie Game Developer**
+#### **Software Engineer, System Architect & Indie Game Developer**
 
-### Toptal 2022 - Present
+## Toptal 2022 - Present
 
 - **Projects**:
     - [**Toptal.com**](http://Toptal.com) - **Senior Software Engineer**.
