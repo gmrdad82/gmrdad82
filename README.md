@@ -1,3 +1,6 @@
+# Catalin Ilinca
+#### **Software Engineer, System Architect & Indie Game Developer**
+
 👋 Greetings stranger,
 
 🪪 I'm Catalin Ilinca / Tech Wizard.
@@ -14,9 +17,6 @@
 * Email: [catalin@techwizard.ro](mailto:catalin@techwizard.ro)
 
 ---
-
-# Catalin Ilinca
-#### **Software Engineer, System Architect & Indie Game Developer**
 
 ## Toptal 2022 - Present
 
