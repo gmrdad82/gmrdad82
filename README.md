@@ -1,4 +1,5 @@
 # Catalin Ilinca
+
 #### **Software Engineer, System Architect & Indie Game Developer**
 
 👋 Greetings stranger,
@@ -13,39 +14,39 @@
 
 🫵 Feel free to follow me using the links bellow:
 
-* Website: [techwizard.ro](https://techwizard.ro)
-* Email: [catalin@techwizard.ro](mailto:catalin@techwizard.ro)
+- W: [twz82.com](https://twz82.com)
+- E: [catalin@twz82.com](mailto:catalin@twz82.com)
 
 ---
 
 ## Toptal 2022 - Present
 
 - **Projects**:
-    - [**Toptal.com**](http://Toptal.com) - **Senior Software Engineer**.
+  - [**Toptal.com**](http://Toptal.com) - **Senior Software Engineer**.
 - **Technologies**: Ruby on Rails, GraphQL, Docker, PostgreSQL, Redis, Sidekiq, nodeJS, Typescript, ElasticSearch, Kafka.
 - **Highlights:**
-    - Refactor monolith application, test covering, data migration.
+  - Refactor monolith application, test covering, data migration.
 
 ## ThoughtWorks 2018 - 2022
 
 - **Projects**:
-    - **[Aircall.io](http://Aircall.io)** - **Senior Software Engineer**.
-    - **S4M** - **Senior Software Engineer**.
-    - **[SWRVE.com](http://SWRVE.com)** - **Senior Software Engineer**.
+  - **[Aircall.io](http://Aircall.io)** - **Senior Software Engineer**.
+  - **S4M** - **Senior Software Engineer**.
+  - **[SWRVE.com](http://SWRVE.com)** - **Senior Software Engineer**.
 - **Technologies**: Ruby on Rails, GraphQL, Docker, AWS, MySQL, Redis, Sidekiq, nodeJS, Typescript
 - **Highlights:**
-    - SWRVE - developed platform audit tool using Ruby on Rails and MySQL.
-    - [Aircall.io](http://Aircall.io) - refactor / redesign monolith application to micro services, test covering, data migration.
+  - SWRVE - developed platform audit tool using Ruby on Rails and MySQL.
+  - [Aircall.io](http://Aircall.io) - refactor / redesign monolith application to micro services, test covering, data migration.
 
 ## [Fepra.ro](http://Fepra.ro) 2018 - Present
 
 - **Projects**:
-    - **app.raportare-fepra.ro** - **System Architect**.
+  - **app.raportare-fepra.ro** - **System Architect**.
 - **Technologies**: Ruby on Rails, GraphQL, Docker, AWS, Blockchain, MySQL, Redis, Sidekiq, ReactJS, nodeJS, nginx, Memcached, haproxy.
 - **Highlights:**
-    - Continuous development and Integration using GitHub, Jira, CodeShip, Docker and AWS EC2.
-    - Blockchain integration with Ruby on Rails API.
-    - PDF and Graphic manipulation and generation.
+  - Continuous development and Integration using GitHub, Jira, CodeShip, Docker and AWS EC2.
+  - Blockchain integration with Ruby on Rails API.
+  - PDF and Graphic manipulation and generation.
 
 ## [TechWizard.ro](http://TechWizard.ro) 2017 - Present
 
@@ -55,29 +56,29 @@
 ## [2Performant.com](http://2Performant.com) 2015 - Present
 
 - **Tech Lead** with many accomplishments:
-    - Infrastructure migration form *Metal* to AWS Cloud.
-    - Redesigning monolith platform to micro services.
-    - RSpec tests for previously 0% covered application.
-    - Team mentor of 5-9 members.
-    - Designing Development Flow.
-    - Stress testing and uptime optimisation.
-    - Backup and Data integrity.
-    - Data protection and security.
+  - Infrastructure migration form _Metal_ to AWS Cloud.
+  - Redesigning monolith platform to micro services.
+  - RSpec tests for previously 0% covered application.
+  - Team mentor of 5-9 members.
+  - Designing Development Flow.
+  - Stress testing and uptime optimisation.
+  - Backup and Data integrity.
+  - Data protection and security.
 - **Technologies:** Ruby on Rails, MySQL, Redis, Memcached, Sidekiq, nginx, python, javascript, AngularJS, AWS Lambda, DynamoDB.
 - **Highlights:**
-    - Outage handling and recovering, including a “hot production database drop”.
-    - BlackFriday scaling with 99.99% uptime and traffic ingestion.
-    - Statistics module rewrite using ETL techniques and processes.
-    - Designed and implemented a resilient infrastructure without any single point of failure, with failsafe and recovery instances for every critical service.
-    - Ingested more than 5m unique clicks / month and peaks of more than 2m clicks / day (on special events).
+  - Outage handling and recovering, including a “hot production database drop”.
+  - BlackFriday scaling with 99.99% uptime and traffic ingestion.
+  - Statistics module rewrite using ETL techniques and processes.
+  - Designed and implemented a resilient infrastructure without any single point of failure, with failsafe and recovery instances for every critical service.
+  - Ingested more than 5m unique clicks / month and peaks of more than 2m clicks / day (on special events).
 
 ## [Deindeal.ch](http://deindeal.ch/) 2015
 
 - Ruby on Rails developer.
 - **Technologies:** Ruby on Rails, MongoDB, PostgreSQL, [Sphere.io](http://sphere.io/).
 - **Highlights:**
-    - Database layer migration from MongoDB to PostgreSQL.
-    - Unified mobile - desktop shopping cart.
+  - Database layer migration from MongoDB to PostgreSQL.
+  - Unified mobile - desktop shopping cart.
 
 ## [Intuo.io](http://Intuo.io) 2013 - 2015
 
@@ -93,9 +94,9 @@
 - **Technologies:** Ruby on Rails, Sinatra, RSpec, MySQL, MongoDB, HTML5, Angular.js, jQuery, CoffeeScript, Memcached, Solr, Sphinx, nginx, Puma, Unicorn, Capistrano.
 - **Infrastructure:** multi MySQL server configuration, multi Redis/Sidekiq configuration, MongoDB cluster and HTTP load balancing.
 - **Highlights:**
-    - Product Feed parser using Ruby on Rails, Sidekiq.
-    - iOS application using Objective C.
-    - Upgrade legacy code from Ruby 1.9.3 to 2.2.x and from Ruby on Rails 3.x to 4.x.
+  - Product Feed parser using Ruby on Rails, Sidekiq.
+  - iOS application using Objective C.
+  - Upgrade legacy code from Ruby 1.9.3 to 2.2.x and from Ruby on Rails 3.x to 4.x.
 
 ## Catalyst Worldwide 2012 - 2013
 
@@ -109,13 +110,13 @@
 - Various websites, web applications APIs, iOS apps.
 - **Technologies:** Ruby on Rails, Objective C.
 - **Highlights:**
-    - Teatrul National de Opereta Bucuresti
-    - Policolor SA
-    - Magnolia Labs
-    - Ziarul National
-    - JTI Romania
-    - Ministerul Educatiei
-    - Mazda Romania
-    - Columbus Imobiliare
-    - Klar Automotive
-    - Tiriac Auto
+  - Teatrul National de Opereta Bucuresti
+  - Policolor SA
+  - Magnolia Labs
+  - Ziarul National
+  - JTI Romania
+  - Ministerul Educatiei
+  - Mazda Romania
+  - Columbus Imobiliare
+  - Klar Automotive
+  - Tiriac Auto
