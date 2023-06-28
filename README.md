@@ -1,6 +1,6 @@
 # Catalin Ilinca
 
-#### **Software Engineer, System Architect & Indie Game Developer**
+#### **Software Engineer & Indie Game Developer**
 
 👋 Greetings stranger,
 
