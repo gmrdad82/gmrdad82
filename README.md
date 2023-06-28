@@ -48,7 +48,7 @@
   - Blockchain integration with Ruby on Rails API.
   - PDF and Graphic manipulation and generation.
 
-## [TechWizard.ro](https://techwizard.ro) 2017 - Present
+## TechWizard.ro 2017 - Present
 
 - **Indie Game Developer**.
 - **Technologies:** Unreal Engine, Unity, Godot.
@@ -72,7 +72,7 @@
   - Designed and implemented a resilient infrastructure without any single point of failure, with failsafe and recovery instances for every critical service.
   - Ingested more than 5m unique clicks / month and peaks of more than 2m clicks / day (on special events).
 
-## [Deindeal.ch](https://deindeal.ch/) 2015
+## Deindeal.ch 2015
 
 - Ruby on Rails developer.
 - **Technologies:** Ruby on Rails, MongoDB, PostgreSQL, [Sphere.io](http://sphere.io/).
@@ -90,7 +90,7 @@
 
 ## 2Parale.ro 2013 - 2015
 
-- **Lead Developer and System Architect** for www.2parale.ro, migrated to [2performant.com](http://2performant.com/), the biggest Affiliate Marketing platform in Romania.
+- **Lead Developer and System Architect** for 2Parale, that was migrated to [2performant.com](http://2performant.com/), the biggest Affiliate Marketing platform in Romania.
 - **Technologies:** Ruby on Rails, Sinatra, RSpec, MySQL, MongoDB, HTML5, Angular.js, jQuery, CoffeeScript, Memcached, Solr, Sphinx, nginx, Puma, Unicorn, Capistrano.
 - **Infrastructure:** multi MySQL server configuration, multi Redis/Sidekiq configuration, MongoDB cluster and HTTP load balancing.
 - **Highlights:**
