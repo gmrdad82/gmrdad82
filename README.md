@@ -22,7 +22,7 @@
 ## Toptal 2022 - Present
 
 - **Projects**:
-  - [**Toptal.com**](http://Toptal.com) - **Senior Software Engineer**.
+  - [**Toptal.com**](https://toptal.com) - **Senior Software Engineer**.
 - **Technologies**: Ruby on Rails, GraphQL, Docker, PostgreSQL, Redis, Sidekiq, nodeJS, Typescript, ElasticSearch, Kafka.
 - **Highlights:**
   - Refactor monolith application, test covering, data migration.
@@ -30,15 +30,15 @@
 ## ThoughtWorks 2018 - 2022
 
 - **Projects**:
-  - **[Aircall.io](http://Aircall.io)** - **Senior Software Engineer**.
+  - **[Aircall.io](https://aircall.io)** - **Senior Software Engineer**.
   - **S4M** - **Senior Software Engineer**.
-  - **[SWRVE.com](http://SWRVE.com)** - **Senior Software Engineer**.
+  - **[SWRVE.com](https://swrve.com)** - **Senior Software Engineer**.
 - **Technologies**: Ruby on Rails, GraphQL, Docker, AWS, MySQL, Redis, Sidekiq, nodeJS, Typescript
 - **Highlights:**
   - SWRVE - developed platform audit tool using Ruby on Rails and MySQL.
   - [Aircall.io](http://Aircall.io) - refactor / redesign monolith application to micro services, test covering, data migration.
 
-## [Fepra.ro](http://Fepra.ro) 2018 - Present
+## [Fepra.ro](https://fepra.ro) 2018 - Present
 
 - **Projects**:
   - **app.raportare-fepra.ro** - **System Architect**.
@@ -48,12 +48,12 @@
   - Blockchain integration with Ruby on Rails API.
   - PDF and Graphic manipulation and generation.
 
-## [TechWizard.ro](http://TechWizard.ro) 2017 - Present
+## [TechWizard.ro](https://techwizard.ro) 2017 - Present
 
 - **Indie Game Developer**.
 - **Technologies:** Unreal Engine, Unity, Godot.
 
-## [2Performant.com](http://2Performant.com) 2015 - Present
+## [2Performant.com](https://2performant.com) 2015 - Present
 
 - **Tech Lead** with many accomplishments:
   - Infrastructure migration form _Metal_ to AWS Cloud.
@@ -72,7 +72,7 @@
   - Designed and implemented a resilient infrastructure without any single point of failure, with failsafe and recovery instances for every critical service.
   - Ingested more than 5m unique clicks / month and peaks of more than 2m clicks / day (on special events).
 
-## [Deindeal.ch](http://deindeal.ch/) 2015
+## [Deindeal.ch](https://deindeal.ch/) 2015
 
 - Ruby on Rails developer.
 - **Technologies:** Ruby on Rails, MongoDB, PostgreSQL, [Sphere.io](http://sphere.io/).
@@ -80,17 +80,17 @@
   - Database layer migration from MongoDB to PostgreSQL.
   - Unified mobile - desktop shopping cart.
 
-## [Intuo.io](http://Intuo.io) 2013 - 2015
+## [Intuo.io](https://intuo.io) 2013 - 2015
 
-- **Lead Developer** for [intuo.io](http://intuo.io/).
+- **Lead Developer**.
 - Successfully pushed the platform in the early stages of the seeding rounds.
 - **Technologies:** Ruby on Rails, EmberJS, Rspec, Capistrano.
 - **Infrastructure:** Azure Cloud.
 - **Highlights:** platform architecture migration from a single tenant design to a multi-tenant design.
 
-## [2Parale.ro](http://2Parale.ro) 2013 - 2015
+## 2Parale.ro 2013 - 2015
 
-- **Lead Developer and System Architect** for [www.2parale.ro](http://www.2parale.ro/), migrated to [2performant.com](http://2performant.com/), the biggest Affiliate Marketing platform in Romania.
+- **Lead Developer and System Architect** for www.2parale.ro, migrated to [2performant.com](http://2performant.com/), the biggest Affiliate Marketing platform in Romania.
 - **Technologies:** Ruby on Rails, Sinatra, RSpec, MySQL, MongoDB, HTML5, Angular.js, jQuery, CoffeeScript, Memcached, Solr, Sphinx, nginx, Puma, Unicorn, Capistrano.
 - **Infrastructure:** multi MySQL server configuration, multi Redis/Sidekiq configuration, MongoDB cluster and HTTP load balancing.
 - **Highlights:**
