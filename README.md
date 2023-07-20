@@ -10,7 +10,7 @@
 
 👨‍💻 I've coded in Ruby, Javascript, Node, C#, PHP, Swift, Objective C, Python, Go, R, Visual Basic.
 
-🎮 I'm very interested in Game development, especially in Unreal Engine, and Retro Pixel art.
+🎮 I'm very interested in Game development, especially in Unity, and Retro Pixel art.
 
 🫵 Feel free to follow me using the links bellow:
 
