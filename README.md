@@ -1,6 +1,6 @@
 # 👋 Greetings stranger,
 
-I'm Catalin Ilinca, a Tech Wizard with a strong passion for technology, gaming, and history. As a Software Engineer and Indie Game Developer, I have a diverse range of skills and experiences. Let me take you through my journey:
+I'm Catalin Ilinca, a Tech Wizard with a strong passion for technology, gaming, and history. As a Software Engineer and Indie Game Developer, I have a diverse range of skills and experiences.
 
 ### 💻 Technical Skills:
 I've delved into various programming languages including Ruby, JavaScript, Node.js, C#, PHP, Swift, Objective-C, Python, Go, R, Visual Basic, and more.
@@ -8,7 +8,7 @@ I've delved into various programming languages including Ruby, JavaScript, Node.
 ### 🎮 Game Development:
 My deep interest lies in game development, particularly in Unreal Engine and Retro Pixel art. I love bringing imaginative worlds to life through immersive gameplay experiences.
 
-### 🌐 Professional Experience:
+### 🌐 Let me take you through my journey:
 
 ## Toptal 2022 - Present
 **Position: Senior Software Engineer**
