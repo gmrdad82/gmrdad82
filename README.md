@@ -6,7 +6,7 @@ I'm passionate about game development, particularly in Unity 2D & 3D and Retro P
 
 I'm relaxing watching movies, digging into world's history,, solving puzzles, assembling small replicas, and playing video games.
 
-### 🌐 Let me briefly tell you my story (backwards)
+### Let me briefly tell you my story (backwards)
 
 ## Toptal 2022 - Present
 **Position: Senior Software Engineer**
