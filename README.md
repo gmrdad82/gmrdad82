@@ -1,12 +1,12 @@
 # Greetings stranger,
 
-Catalin Ilinca's my name and I'm a Tech Wizard Level 99 with high primary skills in Ruby on Rails, GraphQL, Docker, AWS, MySQL. I'm leveling secondary skills in ReactJS, nodeJS, Typescript, Objective-C, Swift, Python.
+I'm a Tech Wizard Level 99 with high primary skills in Ruby on Rails, GraphQL, Docker, AWS, MySQL. I'm leveling secondary skills in ReactJS, nodeJS, Typescript, Objective-C, Swift, Python.
 
-I'm passionate about game development, particularly in Unity 2D & 3D and Retro Pixel art. I love bringing imaginative worlds to life through immersive gameplay experiences.
+I'm passionate about game development, particularly in Unity 2D & 3D and Retro Pixel art. I love bringing fantasy worlds to life through immersive gameplay experiences.
 
-I'm relaxing watching movies, digging into world's history,, solving puzzles, assembling small replicas, and playing video games.
+I'm relax watching movies, digging into world's history, solving puzzles, assembling small replicas, and playing video games.
 
-### Let me briefly tell you my story (backwards)
+### Are you curious about my background?
 
 ## Toptal 2022 - Present
 **Position: Senior Software Engineer**
@@ -15,12 +15,12 @@ At Toptal, I'm a core member of the team, working on projects involving Ruby on 
 
 Noteworthy achievements include refactoring monolithic applications, ensuring test coverage, and performing seamless data migration.
 
-## ThoughtWorks 2018 - 2022
-**Position: Senior Software Engineer (Aircall.io, S4M, SWRVE.com)**
+## 2Performant.com 2015 - Present
+**Position: Senior Software Engineer, Tech Lead, DevOps**
 
-During my time at ThoughtWorks, I worked on multiple projects involving Ruby on Rails, GraphQL, Docker, AWS, MySQL, Redis, Sidekiq, and Typescript. 
+At 2Performant.com, I've made significant contributions as a Tech Lead, overseeing infrastructure migration from Metal to AWS Cloud, redesigning monolithic platforms into microservices, improving test coverage with RSpec, mentoring teams of 5-9 members, and implementing robust development flows. 
 
-Highlights include developing a platform audit tool using Ruby on Rails and MySQL at SWRVE and spearheading the redesign and migration of monolithic applications to microservices architecture at Aircall.io.
+I also focused on stress testing, optimizing uptime, ensuring data integrity and security, and handling massive traffic influxes during events like Black Friday.
 
 ## Fepra.ro 2018 - Present
 **Position: System Architect (app.raportare-fepra.ro)**
@@ -29,12 +29,12 @@ As a System Architect at Fepra.ro and app.raportare-fepra.ro I've designed and i
 
 Notable achievements include Blockchain integration with Ruby on Rails API and implementing PDF and Graphic manipulation and generation capabilities.
 
-## 2Performant.com 2015 - 2022
-**Position: Senior Software Engineer, Tech Lead, DevOps**
+## ThoughtWorks 2018 - 2022
+**Position: Senior Software Engineer (Aircall.io, S4M, SWRVE.com)**
 
-At 2Performant.com, I've made significant contributions as a Tech Lead, overseeing infrastructure migration from Metal to AWS Cloud, redesigning monolithic platforms into microservices, improving test coverage with RSpec, mentoring teams of 5-9 members, and implementing robust development flows. 
+During my time at ThoughtWorks, I worked on multiple projects involving Ruby on Rails, GraphQL, Docker, AWS, MySQL, Redis, Sidekiq, and Typescript. 
 
-I also focused on stress testing, optimizing uptime, ensuring data integrity and security, and handling massive traffic influxes during events like Black Friday.
+Highlights include developing a platform audit tool using Ruby on Rails and MySQL at SWRVE and spearheading the redesign and migration of monolithic applications to microservices architecture at Aircall.io.
 
 ## Deindeal.ch 2015
 **Position: Senior Software Engineer**
