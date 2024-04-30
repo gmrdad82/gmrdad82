@@ -1,10 +1,10 @@
-# Greetings stranger,
+# Greetings,
 
-I'm a Tech Wizard Level 99 with high primary skills in Ruby on Rails, GraphQL, Docker, AWS, MySQL. I'm leveling secondary skills in ReactJS, nodeJS, Typescript, Objective-C, Swift, Python.
+I'm a Catalin, a software engineer with high primary skills in Ruby on Rails, GraphQL, Docker, AWS, MySQL. I'm leveling secondary skills in ReactJS, nodeJS, Typescript, Objective-C, Swift, Python.
 
-I'm passionate about game development, particularly in Unity 2D & 3D and Retro Pixel art. I love bringing fantasy worlds to life through immersive gameplay experiences.
+I'm a father of two and owner of two dogs.
 
-I'm relax watching movies, digging into world's history, solving puzzles, assembling small replicas, and playing video games.
+I'm playing a lot of video games and learning how to edit videos on YouTube, while also trying to find time to watch movies, solve puzzles, assemble small replicas.
 
 ### Are you curious about my background?
 
