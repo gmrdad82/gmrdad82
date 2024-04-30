@@ -2,7 +2,7 @@
 
 I'm a Catalin, a software engineer with high primary skills in Ruby on Rails, GraphQL, Docker, AWS, MySQL. I'm leveling secondary skills in ReactJS, nodeJS, Typescript, Objective-C, Swift, Python.
 
-I'm a father of two and owner of two dogs.
+I'm married, I have two great kids and two playful dogs.
 
 I'm playing a lot of video games and learning how to edit videos on YouTube, while also trying to find time to watch movies, solve puzzles, assemble small replicas.
 
