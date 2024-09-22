@@ -1,4 +1,4 @@
-# Greetings,
+# Greetings
 
 I'm a Catalin, a software engineer with high primary skills in Ruby on Rails, GraphQL, Docker, AWS, MySQL. I'm leveling secondary skills in ReactJS, nodeJS, Typescript, Objective-C, Swift, Python.
 
