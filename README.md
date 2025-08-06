@@ -8,7 +8,7 @@ I'm playing a lot of video games and learning how to edit videos on YouTube, whi
 
 ### Are you curious about my background?
 
-## Toptal 2022 - Present
+## Toptal 2022 - 2024
 **Position: Senior Software Engineer**
 
 At Toptal, I'm a core member of the team, working on projects involving Ruby on Rails, GraphQL, Docker, PostgreSQL, Redis, Sidekiq, nodeJS, Typescript, ElasticSearch, and Kafka.
