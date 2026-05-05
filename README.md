@@ -12,8 +12,6 @@ cătălin "gmrdad82" ilinca
 > slop tolerance      // 0.00
 ```
 
----
-
 ## How it started
 
 <a href="https://youtu.be/LPmitiK-oHI">
@@ -21,8 +19,6 @@ cătălin "gmrdad82" ilinca
 </a>
 
 `▶ My First Computer — how it all started.`
-
----
 
 ## How I got here
 
@@ -37,8 +33,6 @@ $ git log --oneline --decorate --graph
 * 4ce61d8 (tag: 2parale-2013)      lead dev at 2parale (which became 2performant)
 * 1afebbe (tag: v1.0-2006)         shipped my first paid code as a freelancer
 ```
-
----
 
 ## Right now
 
@@ -61,17 +55,13 @@ Changes not staged for commit:
 (use "git commit" if you ever stop)
 ```
 
----
-
 ## Channels
 
 ```
 $ cat ~/.channels
-youtube  @gmrdad82  https://youtube.com/@gmrdad82
+Catalin Ilinca  @gmrdad82  https://youtube.com/@gmrdad82
 # more channels coming soon
 ```
-
----
 
 ## Stack & Gear
 
@@ -106,8 +96,6 @@ $ tree ~/setup
 ```
 
 links → [omarchy](https://omarchy.org) · [neovim](https://neovim.io) · [kitty](https://sw.kovidgoyal.net/kitty/) · [rails](https://rubyonrails.org) · [claude](https://claude.ai) · [slack](https://slack.com) · [brave](https://brave.com) · [obs](https://obsproject.com)
-
----
 
 ```
 $ cat ~/.signature
