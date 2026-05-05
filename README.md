@@ -4,7 +4,7 @@
 
 ```
 $ whoami
-cătălin "gmrdad82" ilinca
+catalin "gmrdad82" ilinca
 > engineer            // still shipping
 > youtube creator     // gaming, life, and everything in between
 > based in            // spain (since 2022)
@@ -59,7 +59,7 @@ Changes not staged for commit:
 
 ```
 $ cat ~/.channels
-Catalin Ilinca  @gmrdad82  https://youtube.com/@gmrdad82
+Catalin Ilinca          @gmrdad82           https://youtube.com/@gmrdad82
 # more channels coming soon
 ```
 
