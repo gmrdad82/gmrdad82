@@ -6,7 +6,7 @@
 $ whoami
 catalin "gmrdad82" ilinca
 > engineer            // still shipping
-> youtube creator     // gaming, life, and everything in between
+> youtuber            // gaming, life, and everything in between
 > based in            // spain (since 2022)
 > ai stance           // embracer, not evangelist
 > slop tolerance      // 0.00
