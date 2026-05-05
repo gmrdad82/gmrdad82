@@ -1,67 +1,115 @@
-# Greetings
+# Cătălin Ilinca
 
-I'm a Catalin, a software engineer with high primary skills in Ruby on Rails, GraphQL, Docker, AWS, MySQL.
+> Engineer by trade. Tryhard creator by night. Slop hater always.
 
-I'm married, I have two great kids and two playful dogs, but I love cats a lot.
+```
+$ whoami
+cătălin "gmrdad82" ilinca
+> engineer            // still shipping
+> youtube creator     // gaming, life, and everything in between
+> based in            // spain (since 2022)
+> ai stance           // embracer, not evangelist
+> slop tolerance      // 0.00
+```
 
-I'm playing a lot of video games and learning how to edit videos on YouTube, while also trying to find time to watch movies, solve puzzles, assemble small replicas.
+---
 
-### Are you curious about my background?
+## How it started
 
-## Toptal 2022 - 2024
+<a href="https://youtu.be/LPmitiK-oHI">
+  <img src="assets/first-computer-thumb.png" alt="My First Computer" width="480">
+</a>
 
-**Position: Senior Software Engineer**
+`▶ My First Computer — how it all started.`
 
-At Toptal, I'm a core member of the team, working on projects involving Ruby on Rails, GraphQL, Docker, PostgreSQL, Redis, Sidekiq, nodeJS, Typescript, ElasticSearch, and Kafka.
+---
 
-Noteworthy achievements include refactoring monolithic applications, ensuring test coverage, and performing seamless data migration.
+## How I got here
 
-## 2Performant.com 2015 - Present
+```
+$ git log --oneline --decorate --graph
+* a4f7b2c (HEAD -> now) engineering, youtubing, gaming, still building, slop-free
+* 8e3d910 (tag: toptal-2024)       wrapped 2 years — senior se, refactored monoliths
+* 2c1f48a (tag: spain-2022)        relocated to castellón, kept shipping
+* 6b9a503 (tag: thoughtworks-2022) closed out 4 years — aircall, swrve, s4m
+* d5e7c2f (tag: fepra-2018)        architected fepra.ro — still running flawlessly
+* 9fa3b71 (tag: 2performant-2015)  joined as tech lead — devops, mentoring, microservices
+* 4ce61d8 (tag: 2parale-2013)      lead dev at 2parale (which became 2performant)
+* 1afebbe (tag: v1.0-2006)         shipped my first paid code as a freelancer
+```
 
-**Position: Senior Software Engineer, Tech Lead, DevOps**
+---
 
-At 2Performant.com, I've made significant contributions as a Tech Lead, overseeing infrastructure migration from Metal to AWS Cloud, redesigning monolithic platforms into microservices, improving test coverage with RSpec, mentoring teams of 5-9 members, and implementing robust development flows.
+## Right now
 
-I also focused on stress testing, optimizing uptime, ensuring data integrity and security, and handling massive traffic influxes during events like Black Friday.
+```
+$ git status
+On branch life
+Your branch is ahead of 'main' by ∞ commits.
 
-## Fepra.ro 2018 - Present
+Active worktrees (parallel branches):
+  ../2performant   devops
+  ../fepra         engineer
+  ../youtube       creator (gmrdad82)
 
-**Position: System Architect (app.raportare-fepra.ro)**
+Changes not staged for commit:
+  modified:   sleep.lock
+  modified:   gaming.session
+  new file:   tools/various.rb
+  helper:     claude — as another pair of hands
 
-As a System Architect at Fepra.ro and app.raportare-fepra.ro I've designed and implemented a robust system that perfoms flawsly since 2018. The system is built using Ruby on Rails, GraphQL, Docker, AWS, MySQL, Redis, Sidekiq, nodeJS, Typescript.
+(use "git commit" if you ever stop)
+```
 
-Notable achievements include Blockchain integration with Ruby on Rails API and implementing PDF and Graphic manipulation and generation capabilities.
+---
 
-## ThoughtWorks 2018 - 2022
+## Channels
 
-**Position: Senior Software Engineer (Aircall.io, S4M, SWRVE.com)**
+```
+$ cat ~/.channels
+youtube  @gmrdad82  https://youtube.com/@gmrdad82
+# more channels coming soon
+```
 
-During my time at ThoughtWorks, I worked on multiple projects involving Ruby on Rails, GraphQL, Docker, AWS, MySQL, Redis, Sidekiq, and Typescript.
+---
 
-Highlights include developing a platform audit tool using Ruby on Rails and MySQL at SWRVE and spearheading the redesign and migration of monolithic applications to microservices architecture at Aircall.io.
+## Stack & Gear
 
-## Deindeal.ch 2015
+```
+$ tree ~/setup
+.
+├── daily/
+│   ├── omarchy           # linux, btw
+│   ├── neovim
+│   ├── kitty             # terminal
+│   ├── ruby on rails
+│   ├── claude            # ai, as another pair of hands
+│   ├── slack
+│   ├── brave
+│   └── obs               # recording / streaming
+├── studio/
+│   ├── sony zv-e10 + sigma 17-40mm f/1.8 dc art
+│   ├── rode podmic (xlr) → focusrite scarlett solo 4th gen
+│   └── ugreen capture card
+├── gaming/
+│   ├── ps5 pro
+│   ├── nintendo switch 2
+│   ├── sony dualsense edge ×2  (black & white)
+│   └── nintendo switch pro controller
+└── desk/
+    ├── asus rog zephyrus m16 (2023)
+    ├── asus rog 27" woled (4th-gen tandem, 1440p)
+    ├── logitech mx keys mechanical
+    ├── logitech mx master 4
+    ├── secretlab magnus evo desk
+    └── secretlab titan evo chair
+```
 
-**Position: Senior Software Engineer**
+links → [omarchy](https://omarchy.org) · [neovim](https://neovim.io) · [kitty](https://sw.kovidgoyal.net/kitty/) · [rails](https://rubyonrails.org) · [claude](https://claude.ai) · [slack](https://slack.com) · [brave](https://brave.com) · [obs](https://obsproject.com)
 
-At Deindeal.ch, I worked as a Ruby on Rails Developer, migrating the database layer from MongoDB to PostgreSQL and unifying the mobile and desktop shopping cart for a seamless user experience.
+---
 
-## Intuo.io 2013 - 2015
-
-**Position: Lead Developer**
-
-At Intuo.io, I played a pivotal role as a Lead Developer, pushing the platform from its early stages of seeding rounds. I facilitated a migration from single-tenant to multi-tenant architecture, using Ruby on Rails, EmberJS, Rspec, and Capistrano, while leveraging Azure Cloud infrastructure.
-
-## 2Parale.ro 2013 - 2015
-
-**Positions: Lead Developer**
-
-As a Lead Developer for 2Parale.ro (migrated to 2performant.com), Romania's largest Affiliate Marketing platform, I contributed extensively to its success. Technologies involved were Ruby on Rails, Sinatra, RSpec, MySQL, MongoDB, HTML5, Angular.js, jQuery, CoffeeScript, Memcached, Solr, Sphinx, nginx, Puma, Unicorn, and Capistrano.
-
-Highlights include developing a product feed parser, creating an iOS application using Objective-C, and upgrading legacy code to newer versions.
-
-## Freelancer 2006 - 2013
-
-**Position: Software Engineer**
-
-As a freelancer, I took on various web development projects and iOS applications, working with clients such as McDonald's US and Stylitics.com, Teatrul National de Opereta Bucuresti, Policolor SA, Magnolia Labs, Ziarul National, JTI Romania, Ministerul Educatiei, Mazda Romania, Columbus Imobiliare, Klar Automotive, and Tiriac Auto.
+```
+$ cat ~/.signature
+> if it reads like gpt (no chat), i didn't write it.
+```
