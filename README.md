@@ -99,5 +99,5 @@ links → [omarchy](https://omarchy.org) · [neovim](https://neovim.io) · [kitt
 
 ```
 $ cat ~/.signature
-> if it reads like gpt (no chat), i didn't write it.
+> if it reads like gpt, i didn't write it.
 ```
