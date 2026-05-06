@@ -14,9 +14,7 @@ catalin "gmrdad82" ilinca
 
 ## How it started
 
-<a href="https://youtu.be/LPmitiK-oHI">
-  <img src="assets/first-computer-thumb.png" alt="My First Computer" width="480">
-</a>
+[<img src="assets/first-computer-thumb.png" alt="My First Computer" width="480">](https://youtu.be/LPmitiK-oHI)
 
 `▶ My First Computer — how it all started.`
 
@@ -59,8 +57,10 @@ Changes not staged for commit:
 
 ```
 $ cat ~/.channels
-Catalin Ilinca          @gmrdad82           https://youtube.com/@gmrdad82
-# more channels coming soon
+Catalin Ilinca          https://youtube.com/@gmrdad82
+Witty Gaming            https://youtube.com/@wittygming
+Barking Stance          https://youtube.com/@brkstance
+Mushroom Poise          https://youtube.com/@mshpoise
 ```
 
 ## Stack & Gear
