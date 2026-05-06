@@ -57,10 +57,10 @@ Changes not staged for commit:
 
 ```
 $ cat ~/.channels
-Catalin Ilinca          https://youtube.com/@gmrdad82
-Witty Gaming            https://youtube.com/@wittygming
-Barking Stance          https://youtube.com/@brkstance
-Mushroom Poise          https://youtube.com/@mshpoise
+open https://youtube.com/@gmrdad82      # Catalin Ilinca
+open https://youtube.com/@wittygming    # Witty Gaming
+open https://youtube.com/@brkstance     # Barking Stance
+open https://youtube.com/@mshpoise      # Mushroom Poise
 ```
 
 ## Stack & Gear
