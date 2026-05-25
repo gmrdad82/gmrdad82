@@ -11,10 +11,10 @@ profile page at <https://github.com/gmrdad82>.
 - `.github/workflows/ci.yml` — Prettier markdown format check +
   markdown link check on push to `main` and on pull requests.
 - `.github/dependabot.yml` — monthly bumps for GitHub Actions.
-- `docs/agents/` — project-specific stubs for the two named agents
-  (`docs.md`, `reviewer.md`). Each stub layers on top of a base
-  template under `~/Dev/claude-dotfiles/agents/`.
-- `.gitignore`, `LICENSE`, `CLAUDE.md` — repo-level housekeeping.
+- `docs/agents/` — project-specific agent instructions for the two
+  named agents (`docs.md`, `reviewer.md`). These are self-contained
+  templates embedded in the repo.
+- `.gitignore`, `LICENSE`, `AGENTS.md` — repo-level housekeeping.
 
 ## Commands
 
@@ -57,22 +57,20 @@ This repo runs a **minimal master-agent** workflow with two named
 subagents:
 
 - **gmrdad82-docs** — owns `README.md` and any future top-level `*.md`.
-  Stub: `docs/agents/docs.md`. Base template:
-  `~/Dev/claude-dotfiles/agents/docs.md`. Forbidden from editing CI,
-  Dependabot, or `.github/`.
+  Stub: `docs/agents/docs.md`. Forbidden from editing CI, Dependabot,
+  or `.github/`.
 - **gmrdad82-reviewer** — runs the pre-commit gauntlet (Prettier check,
   markdown link check, GitHub Actions version pinning, CV chronology
   sanity check). Writes a playbook to
   `docs/orchestration/playbooks/<YYYY-MM-DD>-<slug>.md` (creates the
-  directory on first run). Stub: `docs/agents/reviewer.md`. Base
-  template: `~/Dev/claude-dotfiles/agents/reviewer.md`. Forbidden from
-  editing README content.
+  directory on first run). Stub: `docs/agents/reviewer.md`. Forbidden
+  from editing README content.
 
-The master agent (Claude in this terminal) plans, dispatches, reviews,
-and commits — it does NOT write README content directly when a docs
-agent is appropriate, and does NOT run the review gauntlet itself when
-a reviewer agent is appropriate. Subagents do not commit or push; the
-master commits after the user validates.
+The master agent (CodeWhale in this terminal) plans, dispatches,
+reviews, and commits — it does NOT write README content directly when a
+docs agent is appropriate, and does NOT run the review gauntlet itself
+when a reviewer agent is appropriate. Subagents do not commit or push;
+the master commits after the user validates.
 
 For routine, single-line edits (a fixed typo, a date bump) the master
 may edit directly without dispatching — the agent layer is overhead
@@ -96,6 +94,6 @@ that only pays off for substantive content changes.
 
 - **Profile README** — the special `gmrdad82/gmrdad82` repo on GitHub
   whose `README.md` renders on the user's profile page.
-- **Master agent** — Claude Code in the terminal you are reading.
+- **Master agent** — CodeWhale in the terminal you are reading.
 - **Subagent** — `gmrdad82-docs` or `gmrdad82-reviewer`, dispatched
   via the Agent tool.
