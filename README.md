@@ -12,6 +12,18 @@ catalin "gmrdad82" ilinca
 > slop tolerance      // 0.00
 ```
 
+## pito — the tool i built
+
+```
+$ ./pito --why
+> the best youtube tool around. i'd know — i made it.
+> the paid ones never quite got what i wanted, so i wrote my own.
+> game↔video linkage · footage tracking · self-hosted · zero infra cost.
+> built because i could, and because no one else was going to.
+```
+
+→ [github.com/gmrdad82/pito](https://github.com/gmrdad82/pito)
+
 ## How it started
 
 [<img src="assets/first-computer-thumb.png" alt="My First Computer" width="480">](https://youtu.be/LPmitiK-oHI)
@@ -57,10 +69,12 @@ Changes not staged for commit:
 
 ```
 $ cat ~/.channels
-open https://youtube.com/@gmrdad82      # Catalin Ilinca
-open https://youtube.com/@wittygming    # Witty Gaming
-open https://youtube.com/@brkstance     # Barking Stance
-open https://youtube.com/@mshpoise      # Mushroom Poise
+open https://youtube.com/@gmrdad82       # Catalin Ilinca
+open https://youtube.com/@manfygreats    # Manfy Plays the Greats
+open https://youtube.com/@manfyhard      # Manfy Plays Hard Games
+open https://youtube.com/@manfyfighting  # Manfy Plays Fighting Games
+open https://youtube.com/@manfystrategy  # Manfy Plays Strategy Games
+open https://youtube.com/@manfysurvival  # Manfy Plays Survival Games
 ```
 
 ## Stack & Gear
