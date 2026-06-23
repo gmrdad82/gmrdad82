@@ -12,7 +12,7 @@ catalin "gmrdad82" ilinca
 > slop tolerance      // 0.00
 ```
 
-## pito — the tool i built
+## PITO — the tool i built
 
 ```
 $ ./pito --why
