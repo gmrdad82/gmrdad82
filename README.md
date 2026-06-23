@@ -18,11 +18,11 @@ catalin "gmrdad82" ilinca
 $ ./pito --why
 > the best youtube tool around. i'd know — i made it.
 > the paid ones never quite got what i wanted, so i wrote my own.
-> game↔video linkage · footage tracking · self-hosted · zero infra cost.
+> game-to-video linkage · footage tracking · self-hosted · zero infra cost.
 > built because i could, and because no one else was going to.
 ```
 
-→ [github.com/gmrdad82/pito](https://github.com/gmrdad82/pito)
+→ [github.com/gmrdad82/pito](https://github.com/gmrdad82/pito) · [❤ sponsor](https://github.com/sponsors/gmrdad82)
 
 ## How it started
 
