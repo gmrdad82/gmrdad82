@@ -69,12 +69,12 @@ Changes not staged for commit:
 
 ```
 $ cat ~/.channels
-open https://youtube.com/@gmrdad82       # Catalin Ilinca
-open https://youtube.com/@manfygreats    # Manfy Plays the Greats
-open https://youtube.com/@manfyhard      # Manfy Plays Hard Games
-open https://youtube.com/@manfyfighting  # Manfy Plays Fighting Games
-open https://youtube.com/@manfystrategy  # Manfy Plays Strategy Games
-open https://youtube.com/@manfysurvival  # Manfy Plays Survival Games
+open https://youtube.com/@gmrdad82            # Catalin Ilinca
+open https://youtube.com/@gmrdad82good        # Gamer Dad - The Good Ones
+open https://youtube.com/@gmrdad82hard        # Gamer Dad - The Hard Ones
+open https://youtube.com/@gmrdad82fighter     # Gamer Dad - The Fighter
+open https://youtube.com/@gmrdad82strategist  # Gamer Dad - The Strategist
+open https://youtube.com/@gmrdad82survivor    # Gamer Dad - The Survivor
 ```
 
 ## Stack & Gear
