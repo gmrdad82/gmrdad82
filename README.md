@@ -73,8 +73,8 @@ open https://youtube.com/@gmrdad82            # Catalin Ilinca
 open https://youtube.com/@gmrdad82good        # Gamer Dad - The Good Ones
 open https://youtube.com/@gmrdad82hard        # Gamer Dad - The Hard Ones
 open https://youtube.com/@gmrdad82fighter     # Gamer Dad - The Fighter
-open https://youtube.com/@gmrdad82strategist  # Gamer Dad - The Strategist
 open https://youtube.com/@gmrdad82survivor    # Gamer Dad - The Survivor
+open https://youtube.com/@gmrdad82strategist  # Gamer Dad - The Strategist
 ```
 
 ## Stack & Gear
