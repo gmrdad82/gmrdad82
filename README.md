@@ -29,7 +29,7 @@ pito-android/  # the same instance in your pocket — hotwire native shell
 pito-tui/      # the same chatbox in your terminal — go + bubble tea
 ```
 
-→ [pito](https://github.com/gmrdad82/pito) · [pito-android](https://github.com/gmrdad82/pito-android) · [pito-tui](https://github.com/gmrdad82/pito-tui) · [❤ sponsor](https://github.com/sponsors/gmrdad82)
+▶ [pito](https://github.com/gmrdad82/pito) · [pito-android](https://github.com/gmrdad82/pito-android) · [pito-tui](https://github.com/gmrdad82/pito-tui) · [❤ sponsor](https://github.com/sponsors/gmrdad82)
 
 [![CI](https://github.com/gmrdad82/pito/actions/workflows/ci.yml/badge.svg)](https://github.com/gmrdad82/pito/actions/workflows/ci.yml)
 [![Android CI](https://github.com/gmrdad82/pito-android/actions/workflows/build.yml/badge.svg)](https://github.com/gmrdad82/pito-android/actions/workflows/build.yml)
@@ -40,7 +40,7 @@ pito-tui/      # the same chatbox in your terminal — go + bubble tea
 
 [<img src="assets/first-computer-thumb.png" alt="My First Computer" width="480">](https://youtu.be/LPmitiK-oHI)
 
-`▶ My First Computer — how it all started.`
+▶ [My First Computer — how it all started.](https://youtu.be/LPmitiK-oHI)
 
 ## How I got here
 
