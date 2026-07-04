@@ -41,7 +41,7 @@ pito-tui/      # the same chatbox in your terminal — go + bubble tea
 
 [<img src="assets/first-computer-thumb.png" alt="My First Computer" width="480">](https://youtu.be/LPmitiK-oHI)
 
-▶ [My First Computer — how it all started.](https://youtu.be/LPmitiK-oHI)
+▸ [My First Computer — how it all started.](https://youtu.be/LPmitiK-oHI)
 
 ## How I got here
 
