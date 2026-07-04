@@ -34,6 +34,7 @@ pito-tui/      # the same chatbox in your terminal — go + bubble tea
 [![CI](https://github.com/gmrdad82/pito/actions/workflows/ci.yml/badge.svg)](https://github.com/gmrdad82/pito/actions/workflows/ci.yml)
 [![Android CI](https://github.com/gmrdad82/pito-android/actions/workflows/build.yml/badge.svg)](https://github.com/gmrdad82/pito-android/actions/workflows/build.yml)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=githubsponsors)](https://github.com/sponsors/gmrdad82)
 
 ## How it started
 
