@@ -19,6 +19,7 @@
 - [Simplifier](#simplifier)
 - [Git](#git)
 - [GitHub](#github)
+
 <!-- agents:toc:end -->
 
 <!-- agents:begin name=docs sha=c7eed342ff6a634f8a584b1063b756f63d3af6f1d86586453b582b678a823c31 -->
@@ -71,7 +72,8 @@ there overrides the defaults below.
 - For internal-link integrity, `grep -rn '\](.*\.md)' docs/` then
   spot-check the linked paths exist.
 - Read the doc out loud (or have the LLM summarize it). If the summary
-doesn't match your intent, restructure the lead.
+  doesn't match your intent, restructure the lead.
+
 <!-- agents:end name=docs -->
 
 ---
@@ -160,7 +162,8 @@ Default output path: `docs/playbooks/<YYYY-MM-DD>-<slug>.md` unless
 - `git log main..HEAD --oneline` — commits to review.
 - For each linter / test runner, the command lives in `docs/EXTRA.md`.
 - Capture command output in the playbook's "evidence" section so the
-user (or future you) can see what was checked without re-running.
+  user (or future you) can see what was checked without re-running.
+
 <!-- agents:end name=reviewer -->
 
 ---
@@ -219,8 +222,9 @@ defaults below.
 - Run the project's full test suite after each deletion. A passing
   suite is the proof a simplification is safe.
 - If the project has a coverage tool, verify the deleted code was
-uncovered before deletion (covered code being "unused" is usually a
-test-only call path you'd lose).
+  uncovered before deletion (covered code being "unused" is usually a
+  test-only call path you'd lose).
+
 <!-- agents:end name=simplifier -->
 
 ---
@@ -298,7 +302,8 @@ the user has authorized it.
 - `git log --stat -1` — what files were touched in the last commit.
 - `git diff main...HEAD` — what your branch adds vs main.
 - `git fsck --full` — sanity-check repo integrity if something feels
-off.
+  off.
+
 <!-- agents:end name=git -->
 
 ---
@@ -368,4 +373,5 @@ on. Anything declared there overrides the defaults below.
 reviews` (approvals satisfied).
 - After merging: confirm the branch was deleted (`gh pr view --json
 state,mergeCommit`).
+
 <!-- agents:end name=github -->
