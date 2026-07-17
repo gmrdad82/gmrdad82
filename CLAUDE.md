@@ -1,4 +1,6 @@
-# Working agreement (for Claude / agents)
+# gmrdad82 — profile repo guide (for Claude / agents)
+
+> The global working agreement (`~/.claude/CLAUDE.md`) applies; this file carries only repo specifics.
 
 This is `gmrdad82/gmrdad82`, a GitHub **profile** repo. The whole repo exists
 to keep `README.md` healthy — that file IS the profile page at
@@ -45,11 +47,8 @@ no build step. Markdown in, markdown out.
 ## Git
 
 - Commit directly to `main` — no branches, no PRs for routine README edits.
-- One-line imperative message; no multi-line bodies needed here. No
-  Co-Authored-By, no AI-authorship trailers.
-- Pull with `--rebase`. Never force-push `main`. Stage files explicitly
-  (no `git add .`).
-- The user signs every commit; the GPG PIN prompt is his approval gate.
+- One-line imperative message; no multi-line bodies needed here.
+- Stage files explicitly (no `git add .`).
 
 ## Checks (mirror CI before pushing)
 
