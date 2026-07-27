@@ -9,7 +9,7 @@ no build step. Markdown in, markdown out.
 
 ## Layout
 
-- `README.md` — the profile content (terminal-aesthetic bio, the PITO family,
+- `README.md` — the profile content (terminal-aesthetic bio, the Pito family,
   CV chronology, channels, gear). The only user-facing artifact.
 - `assets/` — images referenced by `README.md` (path-stable; the README
   links to them).

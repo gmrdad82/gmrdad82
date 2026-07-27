@@ -12,7 +12,7 @@ catalin "gmrdad82" ilinca
 > slop tolerance      // 0.00
 ```
 
-## PITO — the tool i built
+## Pito — the tool i built
 
 ```
 $ ./pito --why
@@ -25,12 +25,11 @@ $ ./pito --why
 ```
 $ ls ~/pito
 pito/          # the server — the product, the brain (rails)
-pitomd/        # the showcase — pitomd.com, the over-the-top scroll
+pitomd/        # pitomd.com/chat — the free chat. pitomd.com itself? something's coming.
 pito-android/  # the same instance in your pocket — hotwire native shell
-pito-tui/      # the same chatbox in your terminal — go + bubble tea
 ```
 
-▸ [pito](https://github.com/gmrdad82/pito) · [pitomd](https://github.com/gmrdad82/pitomd) · [pito-android](https://github.com/gmrdad82/pito-android) · [pito-tui](https://github.com/gmrdad82/pito-tui)
+▸ [pito](https://github.com/gmrdad82/pito) · [pitomd](https://github.com/gmrdad82/pitomd) · [pito-android](https://github.com/gmrdad82/pito-android)
 
 [![CI](https://github.com/gmrdad82/pito/actions/workflows/ci.yml/badge.svg)](https://github.com/gmrdad82/pito/actions/workflows/ci.yml)
 [![Android CI](https://github.com/gmrdad82/pito-android/actions/workflows/build.yml/badge.svg)](https://github.com/gmrdad82/pito-android/actions/workflows/build.yml)
