@@ -27,3 +27,15 @@ jobs:
           # gnu.org refuses the checker's requests (status 0) though the
           # license URLs are alive — ignored via the config file.
           config-file: .github/markdown-link-check.json
+  alarm:
+    runs-on: ubuntu-latest
+    needs: [lint]
+    if: failure()
+    steps:
+      - name: Tell Slack the pipeline went red
+        continue-on-error: true
+        env:
+          HOOK: ${{ secrets.SLACK_WEBHOOK }}
+        run: |
+          [ -z "$HOOK" ] && exit 0
+          jq -n --arg t ":rotating_light: *The poster wall went crooked* — the pipeline went red on \`${GITHUB_REF_NAME}\` · <https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}|the run>" '{text: $t}' | curl -sS -X POST -H 'Content-type: application/json' -d @- "$HOOK"
