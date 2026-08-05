@@ -58,7 +58,6 @@ npx --yes prettier@latest --write '**/*.md'   # auto-fix wrapping
 npx markdown-link-check README.md             # link smoke test
 ```
 
-
 ## Language and design canon (owner law, 2026-08-05)
 
 Every language and design decision in this repo — voice, copy,
