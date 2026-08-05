@@ -1,4 +1,4 @@
-<p align="center"><img src=".github/pito-mark.png" height="96" alt="Pito">&nbsp;&nbsp;&nbsp;<img src=".github/icons/pito-studio.png" height="44" alt="Pito Studio">&nbsp;<img src=".github/icons/pito-ping.png" height="44" alt="Pito Ping">&nbsp;<img src=".github/icons/pitomd.png" height="44" alt="pitomd">&nbsp;<img src=".github/icons/pito-tools.png" height="44" alt="Pito Tools">&nbsp;<img src=".github/icons/pito-licence.png" height="44" alt="Pito Licence">&nbsp;<img src=".github/icons/pito-orbit.png" height="44" alt="Pito Orbit">&nbsp;<img src=".github/icons/pito-claude.png" height="44" alt="Pito Claude">&nbsp;<img src=".github/icons/pito-tracer-rust.png" height="44" alt="Pito Tracer (Rust)">&nbsp;<img src=".github/icons/pito-tracer-js.png" height="44" alt="Pito Tracer (JS)">&nbsp;<img src=".github/icons/pito-git.png" height="44" alt="Pito Git"></p>
+<p align="center"><img src=".github/pito-mark.png" height="96" alt="Pito">&nbsp;&nbsp;&nbsp;<img src=".github/icons/pito-studio.png" height="44" alt="Pito Studio">&nbsp;<img src=".github/icons/pito-ping.png" height="44" alt="Pito Ping">&nbsp;<img src=".github/icons/pito-tools.png" height="44" alt="Pito Tools">&nbsp;<img src=".github/icons/pito-licence.png" height="44" alt="Pito Licence">&nbsp;<img src=".github/icons/pito-orbit.png" height="44" alt="Pito Orbit">&nbsp;<img src=".github/icons/pito-claude.png" height="44" alt="Pito Claude">&nbsp;<img src=".github/icons/pito-tracer-rust.png" height="44" alt="Pito Tracer (Rust)">&nbsp;<img src=".github/icons/pito-tracer-js.png" height="44" alt="Pito Tracer (JS)">&nbsp;<img src=".github/icons/pito-git.png" height="44" alt="Pito Git"></p>
 
 # Cătălin Ilinca
 
@@ -14,20 +14,18 @@ catalin "gmrdad82" ilinca
 > slop tolerance      // 0.00
 ```
 
-## Pito — the tool i built
+## Pito — the things i build
 
 ```
-$ ./pito --why
-> the best youtube tool around. i'd know — i made it.
-> the paid ones never quite got what i wanted, so i wrote my own.
-> game-to-video linkage · footage tracking · self-hosted · zero infra cost.
-> built because i could, and because no one else was going to.
+$ ./pito --next
+> pitomd.com — the front door. a countdown is ticking there right now.
+> Pito Studio — cut your gameplay recordings into stories. coming soon.
+> Pito Orbit — right behind it. and more where that came from.
 ```
 
 ```
-$ ls ~/pito
-pito/          # the server — the product, the brain (rails)
-pitomd/        # pitomd.com/chat — the free chat. pitomd.com itself? something's coming.
+$ ls ~/pito  # the chat — where it started
+pito/          # the server — the free chat at pitomd.com/chat (rails)
 pito-android/  # the same instance in your pocket — hotwire native shell
 ```
 
