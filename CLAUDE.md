@@ -57,3 +57,14 @@ npx --yes prettier@latest --check '**/*.md'   # formatting (CI mirror)
 npx --yes prettier@latest --write '**/*.md'   # auto-fix wrapping
 npx markdown-link-check README.md             # link smoke test
 ```
+
+
+## Language and design canon (owner law, 2026-08-05)
+
+Every language and design decision in this repo — voice, copy,
+marks, lockups, interface grammar — follows the Pito estate design
+canon (`LANGUAGE-AND-DESIGN-LANGUAGE.md`, kept in the owner's
+private dev-notes archive). Sessions on the owner's machine read
+it before designing or wording anything user-facing. Per-product
+amendments are ratified by the owner; the canon is amended, never
+forked.
