@@ -18,13 +18,13 @@ catalin "gmrdad82" ilinca
 
 ```
 $ ./pito --next
-> pitomd.com — the front door. a countdown is ticking there right now.
-> Pito Studio — cut your gameplay recordings into stories. coming soon.
-> Pito Orbit — right behind it. and more where that came from.
+> pitomd.com  # the front door. a countdown is ticking there right now.
+> Pito Studio # cut your gameplay recordings into stories. coming soon.
+> Pito Orbit  # right behind it. and more where that came from.
 ```
 
 ```
-$ ls ~/pito  # the chat — where it started
+$ ls ~/pito    # the chat — where it started
 pito/          # the server — the free chat at pitomd.com/chat (rails)
 pito-android/  # the same instance in your pocket — hotwire native shell
 ```
