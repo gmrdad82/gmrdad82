@@ -38,4 +38,8 @@ jobs:
           HOOK: ${{ secrets.SLACK_WEBHOOK }}
         run: |
           [ -z "$HOOK" ] && exit 0
-          jq -n --arg t ":rotating_light: *The poster wall went crooked* — the pipeline went red on \`${GITHUB_REF_NAME}\`. _gmrdad82 · <https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}|run> · \`${GITHUB_SHA:0:7}\`_" '{text: $t}' | curl -sS -X POST -H 'Content-type: application/json' -d @- "$HOOK"
+          MSG=$(printf '%s\n%s\n%s' \
+            ":rotating_light: *The poster wall went crooked* on \`${GITHUB_REF_NAME}\`" \
+            "The pipeline went red." \
+            "_gmrdad82 · <https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}|run> · \`${GITHUB_SHA:0:7}\`_")
+          jq -n --arg t "$MSG" '{text: $t}' | curl -sS -X POST -H 'Content-type: application/json' -d @- "$HOOK"
