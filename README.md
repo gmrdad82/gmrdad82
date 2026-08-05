@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/pito-mark.png" width="96" alt="Pito"></p>
+
 # Cătălin Ilinca
 
 > Engineer by trade. Tryhard creator by night. Slop hater always.
