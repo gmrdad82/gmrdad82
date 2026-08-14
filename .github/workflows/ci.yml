@@ -2,7 +2,13 @@ name: CI
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - "README.md"
+      - ".github/icons/**"
   pull_request:
+    paths-ignore:
+      - "README.md"
+      - ".github/icons/**"
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
