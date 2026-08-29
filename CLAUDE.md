@@ -1,5 +1,14 @@
 # gmrdad82 — profile repo guide (for Claude / agents)
 
+## ⛔ THE COMMIT IS THE OWNER'S (owner law, 2026-08-29 — global, all repos)
+
+**Claude never runs `git commit` / `git tag` / `git push` here unless Gamer
+Dad explicitly asks for that commit.** Finishing the work is not permission to
+commit it — the change is left in the working tree and he is told what to
+commit. Never in any case: `stash`, `checkout`, `restore`, `reset`, `clean`,
+force-push, amend, or history rewrite. When he does ask: stage the files
+explicitly (never `git add .` / `-A`), no AI trailers, this repo's message form.
+
 > The global working agreement (`~/.claude/CLAUDE.md`) applies; this file carries only repo specifics.
 
 This is `gmrdad82/gmrdad82`, a GitHub **profile** repo. The whole repo exists
@@ -46,7 +55,7 @@ no build step. Markdown in, markdown out.
 
 ## Git
 
-- Commit directly to `main` — no branches, no PRs for routine README edits.
+- When he asks for a commit: straight to `main` — no branches, no PRs.
 - One-line imperative message; no multi-line bodies needed here.
 - Stage files explicitly (no `git add .`).
 
