@@ -29,14 +29,12 @@ $ cargo build --release
    Compiling pito-tools    # the shared crates — keys, doors, embed, agents
    Compiling pito-ui       # every style, every motion, one library
    Compiling said-and-done # the desk itself
-    Finished `release` profile — gpu-warm, keyboard-first, agents at the door
+    Finished `release` profile — gpu-rendered, keyboard-driven, agents welcome
 
 $ ls ~/pito    # the chat — where it started (rails, archived 2026)
 pito/          # the server — the free chat at pitomd.com/chat
 pito-android/  # the same instance in your pocket — hotwire native shell
 ```
-
-▸ [pito](https://github.com/gmrdad82/pito) · [pitomd](https://github.com/gmrdad82/pitomd) · [pito-android](https://github.com/gmrdad82/pito-android)
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=githubsponsors)](https://github.com/sponsors/gmrdad82)
 
@@ -84,7 +82,7 @@ Changes not staged for commit:
 ## Channel
 
 ```
-$ cat ~/.channels
+$ cat ~/.youtube
 open https://youtube.com/@gmrdad82  # Gamer Dad - Stories
 ```
 
@@ -114,9 +112,9 @@ $ tree ~/setup
 │   └── nintendo switch pro controller
 └── desk/
     ├── asus rog zephyrus m16 (2023)
-    ├── asus rog 27" woled (4th-gen tandem, 1440p)
-    ├── logitech mx keys mechanical
-    ├── logitech mx master 4
+    ├── asus rog 27" woled (4th-gen tandem, 1440p) ×2
+    ├── keychron q16 ultra
+    ├── keychron m5
     ├── secretlab magnus evo desk
     └── secretlab titan evo chair
 ```
