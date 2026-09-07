@@ -7,10 +7,10 @@
 ```
 $ whoami
 catalin "gmrdad82" ilinca
-> engineer            // still shipping
+> engineer            // still shipping — rust, these days
 > youtuber            // gaming, life, and everything in between
 > based in            // spain (since 2022)
-> ai stance           // embracer, not evangelist
+> ai stance           // agentic. agents get pages, i get the last word
 > slop tolerance      // 0.00
 ```
 
@@ -18,15 +18,21 @@ catalin "gmrdad82" ilinca
 
 ```
 $ ./pito --next
-> Said and Done. # the desk that lives where your notes live. pitomd.com/said-and-done
-> pitomd.com     # the front door. a countdown is ticking there right now.
+> Said and Done. # the desk that lives where your notes live. rust + iced. pitomd.com/said-and-done
+> pitomd.com     # the front door. Said and Done. leads the lineup.
 > Pito Studio    # cut your gameplay recordings into stories. coming soon.
 > Pito Orbit     # right behind it. and more where that came from.
 ```
 
 ```
-$ ls ~/pito    # the chat — where it started
-pito/          # the server — the free chat at pitomd.com/chat (rails)
+$ cargo build --release
+   Compiling pito-tools    # the shared crates — keys, doors, embed, agents
+   Compiling pito-ui       # every style, every motion, one library
+   Compiling said-and-done # the desk itself
+    Finished `release` profile — gpu-warm, keyboard-first, agents at the door
+
+$ ls ~/pito    # the chat — where it started (rails, archived 2026)
+pito/          # the server — the free chat at pitomd.com/chat
 pito-android/  # the same instance in your pocket — hotwire native shell
 ```
 
@@ -70,7 +76,7 @@ Changes not staged for commit:
   modified:   sleep.lock
   modified:   gaming.session
   new file:   tools/various.rb
-  helper:     claude — as another pair of hands
+  helpers:    claude, codex — pages in their hands
 
 (use "git commit" if you ever stop)
 ```
@@ -89,10 +95,11 @@ $ tree ~/setup
 .
 ├── daily/
 │   ├── omarchy           # linux, btw
-│   ├── neovim
-│   ├── kitty             # terminal
-│   ├── ruby on rails
-│   ├── claude            # ai, as another pair of hands
+│   ├── rust              # the desk, the crates, the workers behind them
+│   ├── zed               # editor, terminal, agents — one window
+│   ├── ruby on rails     # the years before
+│   ├── claude            # agents, as more pairs of hands
+│   ├── codex             # the other pairs
 │   ├── slack
 │   ├── brave
 │   └── obs               # recording / streaming
@@ -114,7 +121,7 @@ $ tree ~/setup
     └── secretlab titan evo chair
 ```
 
-links → [omarchy](https://omarchy.org) · [neovim](https://neovim.io) · [kitty](https://sw.kovidgoyal.net/kitty/) · [rails](https://rubyonrails.org) · [claude](https://claude.ai) · [slack](https://slack.com) · [brave](https://brave.com) · [obs](https://obsproject.com)
+links → [omarchy](https://omarchy.org) · [rust](https://www.rust-lang.org) · [zed](https://zed.dev) · [rails](https://rubyonrails.org) · [claude](https://claude.ai) · [codex](https://openai.com/codex/) · [slack](https://slack.com) · [brave](https://brave.com) · [obs](https://obsproject.com)
 
 ```
 $ cat ~/.signature
