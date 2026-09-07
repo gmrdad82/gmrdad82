@@ -17,7 +17,6 @@ Task guide: [`agents/skills/copy-content.md`](agents/skills/copy-content.md)
 
 # Hard rules
 
-- No AI tool commits or pushes here.
 - **The CV is the owner's to dictate**: reword, tighten, fix typos — never
   invent employer history, dates, titles, or accomplishments, and never
   delete CV facts he explicitly added.
