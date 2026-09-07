@@ -1,4 +1,4 @@
-<p align="center"><img src=".github/icons/pitomd.png" height="44" alt="pitomd">&nbsp;<img src=".github/icons/pito-work.png" height="44" alt="Said and Done.">&nbsp;<img src=".github/icons/pito-studio.png" height="44" alt="Pito Studio">&nbsp;<img src=".github/icons/pito-estate.png" height="44" alt="Pito Estate">&nbsp;<img src=".github/icons/pito-orbit.png" height="44" alt="Pito Orbit">&nbsp;<img src=".github/icons/pito-ping.png" height="44" alt="Pito Ping">&nbsp;<img src=".github/icons/pito-licence.png" height="44" alt="Pito Licence">&nbsp;<img src=".github/icons/pito-deps.png" height="44" alt="Pito Deps">&nbsp;<img src=".github/icons/pito-releases.png" height="44" alt="Pito Releases">&nbsp;<img src=".github/icons/pito-tools.png" height="44" alt="Pito Tools">&nbsp;<img src=".github/icons/pito-ui.png" height="44" alt="Pito UI"></p>
+<p align="center"><img src=".github/icon.png" height="96" alt="Said and Done."></p>
 
 # Cătălin Ilinca
 
@@ -18,9 +18,10 @@ catalin "gmrdad82" ilinca
 
 ```
 $ ./pito --next
-> pitomd.com  # the front door. a countdown is ticking there right now.
-> Pito Studio # cut your gameplay recordings into stories. coming soon.
-> Pito Orbit  # right behind it. and more where that came from.
+> Said and Done. # the desk that lives where your notes live. pitomd.com/said-and-done
+> pitomd.com     # the front door. a countdown is ticking there right now.
+> Pito Studio    # cut your gameplay recordings into stories. coming soon.
+> Pito Orbit     # right behind it. and more where that came from.
 ```
 
 ```
@@ -31,9 +32,6 @@ pito-android/  # the same instance in your pocket — hotwire native shell
 
 ▸ [pito](https://github.com/gmrdad82/pito) · [pitomd](https://github.com/gmrdad82/pitomd) · [pito-android](https://github.com/gmrdad82/pito-android)
 
-[![CI](https://github.com/gmrdad82/pito/actions/workflows/ci.yml/badge.svg)](https://github.com/gmrdad82/pito/actions/workflows/ci.yml)
-[![Android CI](https://github.com/gmrdad82/pito-android/actions/workflows/build.yml/badge.svg)](https://github.com/gmrdad82/pito-android/actions/workflows/build.yml)
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=githubsponsors)](https://github.com/sponsors/gmrdad82)
 
 ## How it started
