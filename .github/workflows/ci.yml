@@ -19,31 +19,15 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
 
       - name: Prettier — markdown formatting
-        run: npx --yes prettier@latest --check '**/*.md'
+        run: npx --yes prettier@3.9.9 --check '**/*.md'
 
       - name: Markdown link check
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        uses: tcort/github-action-markdown-link-check@e7c7a18363c842693fadde5d41a3bd3573a7a225
         with:
           use-quiet-mode: "yes"
           # gnu.org refuses the checker's requests (status 0) though the
           # license URLs are alive — ignored via the config file.
           config-file: .github/markdown-link-check.json
-  alarm:
-    runs-on: ubuntu-latest
-    needs: [lint]
-    if: failure()
-    steps:
-      - name: Tell Slack the pipeline went red
-        continue-on-error: true
-        env:
-          HOOK: ${{ secrets.SLACK_WEBHOOK }}
-        run: |
-          [ -z "$HOOK" ] && exit 0
-          MSG=$(printf '%s\n%s\n%s' \
-            ":rotating_light: *The poster wall went crooked* on \`${GITHUB_REF_NAME}\`" \
-            "The pipeline went red." \
-            "_gmrdad82 · <https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}|run> · \`${GITHUB_SHA:0:7}\`_")
-          jq -n --arg t "$MSG" '{text: $t}' | curl -sS -X POST -H 'Content-type: application/json' -d @- "$HOOK"
