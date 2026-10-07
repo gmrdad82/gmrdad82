@@ -98,7 +98,6 @@ $ tree ~/setup
 │   ├── ruby on rails     # the years before
 │   ├── claude            # agents, as more pairs of hands
 │   ├── codex             # the other pairs
-│   ├── slack
 │   ├── brave
 │   └── obs               # recording / streaming
 ├── studio/
@@ -119,7 +118,7 @@ $ tree ~/setup
     └── secretlab titan evo chair
 ```
 
-links → [omarchy](https://omarchy.org) · [rust](https://www.rust-lang.org) · [zed](https://zed.dev) · [rails](https://rubyonrails.org) · [claude](https://claude.com/product/claude-code) · [codex](https://openai.com/codex/) · [slack](https://slack.com) · [brave](https://brave.com) · [obs](https://obsproject.com)
+links → [omarchy](https://omarchy.org) · [rust](https://www.rust-lang.org) · [zed](https://zed.dev) · [rails](https://rubyonrails.org) · [claude](https://claude.com/product/claude-code) · [codex](https://openai.com/codex/) · [brave](https://brave.com) · [obs](https://obsproject.com)
 
 ```
 $ cat ~/.signature
