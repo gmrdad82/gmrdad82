@@ -5,6 +5,7 @@ Promotes what he builds: the channel Soft Reset. Updated 2026-10-08. Paste each 
 - Profile: https://www.youtube.com/@S0FTR3S3T
 - Avatar: avatar.png, 800x800, the PITO P: a dark P on the pink, violet and blue gradient.
 - Banner: banner.png, 2560x1440, everything inside the 1546x423 centre safe area, the part every device shows.
+- Video watermark: watermark.png, 150x150, the PITO P: a dark P on the pink, violet and blue gradient, cropped to a circle with transparent corners.
 
 ## Name
 
@@ -141,8 +142,9 @@ https://www.instagram.com/gamerdady82
 1. Open studio.youtube.com signed in as Soft Reset, then Customization in the left menu.
 2. Profile tab, Picture: Change, pick avatar.png, Done.
 3. Profile tab, Banner image: Change, pick banner.png, check that the TV, desktop and mobile previews all show the whole lockup, Done.
-4. Profile tab: paste Name; Handle stays @S0FTR3S3T; paste Description.
-5. Profile tab, Links: delete every link there, then Add link for each row under Links, in order, its title and then its URL.
-6. Profile tab, Contact info: gmrdad82@gmail.com.
-7. Publish (top right).
-8. Settings, Channel, Basic info: Country of residence Spain; Save.
+4. Profile tab, Video watermark: Change, pick watermark.png, Done; Display time: Entire video.
+5. Profile tab: paste Name; Handle stays @S0FTR3S3T; paste Description.
+6. Profile tab, Links: delete every link there, then Add link for each row under Links, in order, its title and then its URL.
+7. Profile tab, Contact info: gmrdad82@gmail.com.
+8. Publish (top right).
+9. Settings, Channel, Basic info: Country of residence Spain; Save.
