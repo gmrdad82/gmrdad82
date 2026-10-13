@@ -3,7 +3,7 @@
 Promotes what he builds. Updated 2026-10-08. Paste each block as it is, then follow the steps.
 
 - Profile: https://github.com/gmrdad82
-- Avatar: avatar.png, 800x800, the PITO P: a dark P on the pink, violet and blue gradient.
+- Avatar: avatar.png, 800x800, the PITO MD P: a dark P on the pink, violet and blue gradient.
 
 ## Name
 
@@ -18,7 +18,7 @@ Catalin Ilinca
 141 of 160 characters.
 
 ```text
-Gamer Dad. Engineer by trade, tryhard creator by night. Building PITO MD in Rust with AI agents: Inbox 0, the pfx engine, Manfred and the tools.
+Gamer Dad. Dad first, then engineer, developer and gamer. Building engines to power games and apps like Inbox 0, Splicer, Dispatch and Paper.
 ```
 
 ## URL

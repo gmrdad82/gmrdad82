@@ -3,9 +3,9 @@
 Promotes what he builds: the channel Soft Reset. Updated 2026-10-08. Paste each block as it is, then follow the steps.
 
 - Profile: https://www.youtube.com/@S0FTR3S3T
-- Avatar: avatar.png, 800x800, the PITO P: a dark P on the pink, violet and blue gradient.
+- Avatar: avatar.png, 800x800, the PITO MD P: a dark P on the pink, violet and blue gradient.
 - Banner: banner.png, 2560x1440, everything inside the 1546x423 centre safe area, the part every device shows.
-- Video watermark: watermark.png, 150x150, the PITO P: a dark P on the pink, violet and blue gradient, cropped to a circle with transparent corners.
+- Video watermark: watermark.png, 150x150, the PITO MD P: a dark P on the pink, violet and blue gradient, cropped to a circle with transparent corners.
 
 ## Name
 
@@ -17,14 +17,14 @@ Soft Reset
 
 ## Description
 
-509 of 1000 characters.
+499 of 1000 characters.
 
 ```text
 Real. Direct. No fluff.
 
-I'm Gamer Dad (Catalin Ilinca): engineer by trade, tryhard creator by night, dad all day, in Spain. I build PITO MD: games, a Rust game engine and the tools around them, with a crew of AI agents. They get pages, I get the last word. Right now: Inbox 0, a roguelite drawn as a mail client, coming to Steam; pfx, the engine under it; and Manfred, the scene tool on top.
+I'm Gamer Dad (Catalin Ilinca): dad first, then engineer by trade, developer and gamer, tryhard creator by night, in Spain. I build engines to power games and apps like Inbox 0, Splicer, Dispatch and Paper. That's PITO MD. Splicer 1.0 is out: cut your videos very fast from their transcripts.
 
-Here: releases, devlogs, the odd gameplay, and the honest bits in between.
+Here: releases, devlogs, the odd gameplay, and the honest bits in between. A crew of AI agents helps with the code; I get the last word.
 
 Reach me at gmrdad82 [at] gmail [dot] com.
 ```

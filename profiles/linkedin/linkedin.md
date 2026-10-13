@@ -3,36 +3,36 @@
 Promotes what he builds; the kit sets the headline, About, contact websites, Featured, avatar and banner, and his experience entries stay his own. Updated 2026-10-08. Paste each block as it is, then follow the steps.
 
 - Profile: https://www.linkedin.com/in/catalinilinca
-- Avatar: avatar.png, 400x400, the PITO P: a dark P on the pink, violet and blue gradient.
+- Avatar: avatar.png, 400x400, the PITO MD P: a dark P on the pink, violet and blue gradient.
 - Banner: banner.png, 1584x396, the left third of the bottom kept clear, where the profile photo overlaps it.
 
 ## Headline
 
-155 of 220 characters.
+182 of 220 characters.
 
 ```text
-Senior Software Engineer · 20 years shipping · Rust · Founder, PITO MD: Inbox 0, the pfx game engine and dev tools, built with AI agents · github.com/gmrdad82
+Dad · Senior Software Engineer · 20 years shipping · Rust · Founder, PITO MD: building engines to power games and apps like Inbox 0, Splicer, Dispatch and Paper · github.com/gmrdad82
 ```
 
 ## About
 
-964 of 2600 characters.
+987 of 2600 characters.
 
 ```text
-Engineer by trade. Tryhard creator by night. Slop hater always.
+Dad first. Then engineer, developer and gamer. Tryhard creator by night. Slop hater always.
 
 I've been shipping software since 2006: freelance first, then lead developer and tech lead in ad-tech, four years as a consultant at Thoughtworks, and senior engineering through Toptal since 2024. Spain has been home since 2022.
 
-These days I build PITO MD, my own estate of games and the tools around them, in Rust, with a crew of AI agents. They get pages, I get the last word. What's on the bench:
+These days I build engines to power games and apps like Inbox 0, Splicer, Dispatch and Paper. That's PITO MD, all in Rust. What's on the bench:
 
-· Inbox 0, a lane-clearing roguelite drawn as a mail client, coming to Steam.
-· pfx, the game and render engine under it, open source: github.com/gmrdad82/pfx
+· Splicer 1.0, my video cutter: cut your videos very fast from their transcripts.
+· pfx, the game and render engine, open source: github.com/gmrdad82/pfx
 · Manfred, a scene tool on pfx, open source: github.com/gmrdad82/manfred
 · pito-tui and its crates, the terminal UI every PITO MD tool runs on.
 
 I film the work on YouTube as Soft Reset: releases, devlogs, gameplay and the honest bits in between. youtube.com/@S0FTR3S3T
 
-If it reads like GPT, I didn't write it.
+A crew of AI agents helps with the code; I get the last word.
 
 gmrdad82@gmail.com · pitomd.com
 ```
