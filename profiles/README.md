@@ -11,3 +11,4 @@ Each folder holds `<platform>.md`, with every field ready to paste beside its ch
 - [TikTok](tiktok/tiktok.md): @gamerdady82
 - [Instagram](instagram/instagram.md): gamerdady82
 - [Reddit](reddit/reddit.md): u/GmrDad82
+- [Steam](steam/steam.md): pitomd
