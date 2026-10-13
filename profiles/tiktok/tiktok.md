@@ -1,6 +1,6 @@
 # TikTok: @gamerdady82
 
-Pure Gamer Dad, with only the odd PITO clip. Updated 2026-10-08. Paste each block as it is, then follow the steps.
+Pure Gamer Dad, with only the odd PITO MD clip. Updated 2026-10-08. Paste each block as it is, then follow the steps.
 
 - Profile: https://www.tiktok.com/@gamerdady82
 - Avatar: avatar.png, 200x200, the dog, Gamer Dad's own face.

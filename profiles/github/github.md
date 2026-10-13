@@ -18,7 +18,7 @@ Catalin Ilinca
 141 of 160 characters.
 
 ```text
-Gamer Dad. Engineer by trade, tryhard creator by night. Building PITO in Rust with AI agents: Inbox 0, the pfx engine, Manfred and the tools.
+Gamer Dad. Engineer by trade, tryhard creator by night. Building PITO MD in Rust with AI agents: Inbox 0, the pfx engine, Manfred and the tools.
 ```
 
 ## URL

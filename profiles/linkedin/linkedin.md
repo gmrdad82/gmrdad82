@@ -11,7 +11,7 @@ Promotes what he builds; the kit sets the headline, About, contact websites, Fea
 155 of 220 characters.
 
 ```text
-Senior Software Engineer · 20 years shipping · Rust · Founder, PITO: Inbox 0, the pfx game engine and dev tools, built with AI agents · github.com/gmrdad82
+Senior Software Engineer · 20 years shipping · Rust · Founder, PITO MD: Inbox 0, the pfx game engine and dev tools, built with AI agents · github.com/gmrdad82
 ```
 
 ## About
@@ -23,12 +23,12 @@ Engineer by trade. Tryhard creator by night. Slop hater always.
 
 I've been shipping software since 2006: freelance first, then lead developer and tech lead in ad-tech, four years as a consultant at Thoughtworks, and senior engineering through Toptal since 2024. Spain has been home since 2022.
 
-These days I build PITO, my own estate of games and the tools around them, in Rust, with a crew of AI agents. They get pages, I get the last word. What's on the bench:
+These days I build PITO MD, my own estate of games and the tools around them, in Rust, with a crew of AI agents. They get pages, I get the last word. What's on the bench:
 
 · Inbox 0, a lane-clearing roguelite drawn as a mail client, coming to Steam.
 · pfx, the game and render engine under it, open source: github.com/gmrdad82/pfx
 · Manfred, a scene tool on pfx, open source: github.com/gmrdad82/manfred
-· pito-tui and its crates, the terminal UI every PITO tool runs on.
+· pito-tui and its crates, the terminal UI every PITO MD tool runs on.
 
 I film the work on YouTube as Soft Reset: releases, devlogs, gameplay and the honest bits in between. youtube.com/@S0FTR3S3T
 

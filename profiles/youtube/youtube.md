@@ -22,7 +22,7 @@ Soft Reset
 ```text
 Real. Direct. No fluff.
 
-I'm Gamer Dad (Catalin Ilinca): engineer by trade, tryhard creator by night, dad all day, in Spain. I build PITO: games, a Rust game engine and the tools around them, with a crew of AI agents. They get pages, I get the last word. Right now: Inbox 0, a roguelite drawn as a mail client, coming to Steam; pfx, the engine under it; and Manfred, the scene tool on top.
+I'm Gamer Dad (Catalin Ilinca): engineer by trade, tryhard creator by night, dad all day, in Spain. I build PITO MD: games, a Rust game engine and the tools around them, with a crew of AI agents. They get pages, I get the last word. Right now: Inbox 0, a roguelite drawn as a mail client, coming to Steam; pfx, the engine under it; and Manfred, the scene tool on top.
 
 Here: releases, devlogs, the odd gameplay, and the honest bits in between.
 
@@ -39,12 +39,12 @@ Spain
 
 ## Links
 
-### 1. PITO
+### 1. PITO MD
 
-Title, 4 characters:
+Title, 7 characters:
 
 ```text
-PITO
+PITO MD
 ```
 
 URL, 18 characters:

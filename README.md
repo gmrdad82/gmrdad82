@@ -8,24 +8,24 @@
 $ whoami
 Gamer Dad (gmrdad82)
 > engineer            // 20+ years shipping. rust, these days
-> builder             // PITO: games, a rust engine and the tools around them
+> builder             // PITO MD: games, a rust engine and the tools around them
 > ai stance           // agentic. agents get pages, i get the last word
 > youtuber            // Soft Reset: releases, devlogs, gameplay
 > based in            // spain (since 2022)
 > slop tolerance      // 0.00
 ```
 
-## PITO — the things I build
+## PITO MD — the things I build
 
 ```
 $ ./pito --now
 > Inbox 0      # a roguelite drawn as a mail client. coming to Steam.
 > pfx          # the game and render engine under it. rust, gpu, a path tracer.
 > Manfred      # the scene tool on top of pfx. TOML recipes in, renders out.
-> pito-tui     # the terminal UI every PITO tool runs on.
+> pito-tui     # the terminal UI every PITO MD tool runs on.
 ```
 
-Every PITO repo has its own agent session. They ask each other for what they need, gate their own work and ship signed releases. I set the direction and say go.
+Every PITO MD repo has its own agent session. They ask each other for what they need, gate their own work and ship signed releases. I set the direction and say go.
 
 Open source: [pfx](https://github.com/gmrdad82/pfx) · [Manfred](https://github.com/gmrdad82/manfred) · [pito-tui](https://github.com/gmrdad82/pito-tui) and its crates · [pitomd.com](https://pitomd.com)
 

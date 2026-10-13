@@ -1,6 +1,6 @@
 # Instagram: gamerdady82
 
-Pure Gamer Dad, with only the odd PITO clip. Updated 2026-10-08. Paste each block as it is, then follow the steps.
+Pure Gamer Dad, with only the odd PITO MD clip. Updated 2026-10-08. Paste each block as it is, then follow the steps.
 
 - Profile: https://www.instagram.com/gamerdady82
 - Avatar: avatar.png, 320x320, the dog, Gamer Dad's own face.
