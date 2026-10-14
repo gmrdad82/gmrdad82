@@ -17,12 +17,12 @@ Soft Reset
 
 ## Description
 
-499 of 1000 characters.
+498 of 1000 characters.
 
 ```text
 Real. Direct. No fluff.
 
-I'm Gamer Dad (Catalin Ilinca): dad first, then engineer by trade, developer and gamer, tryhard creator by night, in Spain. I build engines to power games and apps like Inbox 0, Splicer, Dispatch and Paper. That's PITO MD. Splicer 1.0 is out: cut your videos very fast from their transcripts.
+I'm Gamer Dad (Catalin Ilinca): dad first, then engineer by trade, developer and gamer, tryhard creator by night, in Spain. I build engines to power games and apps like Inbox0, Splicer, Dispatch and Paper. That's PITO MD. Splicer 1.0 is out: cut your videos very fast from their transcripts.
 
 Here: releases, devlogs, the odd gameplay, and the honest bits in between. A crew of AI agents helps with the code; I get the last word.
 

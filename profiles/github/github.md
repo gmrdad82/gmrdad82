@@ -15,10 +15,10 @@ Catalin Ilinca
 
 ## Bio
 
-141 of 160 characters.
+140 of 160 characters.
 
 ```text
-Gamer Dad. Dad first, then engineer, developer and gamer. Building engines to power games and apps like Inbox 0, Splicer, Dispatch and Paper.
+Gamer Dad. Dad first, then engineer, developer and gamer. Building engines to power games and apps like Inbox0, Splicer, Dispatch and Paper.
 ```
 
 ## URL

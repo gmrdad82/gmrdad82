@@ -31,10 +31,10 @@ Spain
 
 ## Summary
 
-99 of 2000 characters.
+94 of 2000 characters.
 
 ```text
-Building engines to power games, starting with Inbox 0. pitomd.com · Discord: discord.gg/XsNcn3kYzn
+Building engines to power games. Check out Inbox0! pitomd.com · Discord: discord.gg/XsNcn3kYzn
 ```
 
 ## Steps

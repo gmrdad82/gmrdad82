@@ -19,7 +19,7 @@ Gamer Dad (gmrdad82)
 
 ```
 $ ./pito --now
-> Inbox 0      # a roguelite drawn as a mail client. coming to Steam.
+> Inbox0       # a roguelite drawn as a mail client. coming to Steam.
 > pfx          # the game and render engine under it. rust, gpu, a path tracer.
 > Manfred      # the scene tool on top of pfx. TOML recipes in, renders out.
 > pito-tui     # the terminal UI every PITO MD tool runs on.
