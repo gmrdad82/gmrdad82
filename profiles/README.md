@@ -12,3 +12,4 @@ Each folder holds `<platform>.md`, with every field ready to paste beside its ch
 - [Instagram](instagram/instagram.md): gamerdady82
 - [Reddit](reddit/reddit.md): u/GmrDad82
 - [Steam](steam/steam.md): pitomd
+- [Discord](discord/discord.md): https://discord.gg/XsNcn3kYzn
