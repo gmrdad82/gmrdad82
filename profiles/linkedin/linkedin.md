@@ -16,10 +16,10 @@ Dad · Senior Software Engineer · 20 years shipping · Rust · Founder, PITO MD
 
 ## About
 
-993 of 2600 characters.
+974 of 2600 characters.
 
 ```text
-Dad first. Then engineer, developer and gamer. Tryhard creator by night. Slop hater always.
+Dad first. Then engineer, developer and gamer. Tryhard creator by night.
 
 I've been shipping software since 2006: freelance first, then lead developer and tech lead in ad-tech, four years as a consultant at Thoughtworks, and senior engineering through Toptal since 2024. Spain has been home since 2022.
 
