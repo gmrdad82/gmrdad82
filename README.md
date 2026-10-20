@@ -33,7 +33,7 @@ $ ./pito --now
 > Inbox0       # Your inbox is a bullet hell. Coming to Steam.
 ```
 
-Apps: [Splicer](https://pitomd.com/splicer/) · [Manfred](https://pitomd.com/manfred/) · [P99](https://pitomd.com/p99/) · Game: [Inbox0](https://pitomd.com/inbox0/) · Engine: [pfx](https://github.com/gmrdad82/pfx)
+Engine: [pfx](https://github.com/gmrdad82/pfx) · Apps: [Splicer](https://pitomd.com/splicer/) · [Manfred](https://pitomd.com/manfred/) · [P99](https://pitomd.com/p99/) · Game: [Inbox0](https://pitomd.com/inbox0/)
 
 Open source: [pito-codecs](https://github.com/gmrdad82/pito-codecs) · [pito-compare](https://github.com/gmrdad82/pito-compare) · [prec](https://github.com/gmrdad82/prec) · [pito-tui](https://github.com/gmrdad82/pito-tui) and its crates · [pito-embed](https://github.com/gmrdad82/pito-embed) · [pito-renew](https://github.com/gmrdad82/pito-renew) · [pitomd.com](https://pitomd.com)
 
