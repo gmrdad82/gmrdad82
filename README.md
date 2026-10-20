@@ -6,7 +6,7 @@ Catalin Ilinca
 
 > I'm building tools for my dreams. I'm not dreaming for my tools.
 
-Engineer by trade. Tryhard creator by night. Slop hater always.
+Engineer by trade. Tryhard creator by night.
 
 **Got questions or doubts? Ping me on Discord: https://discord.gg/XsNcn3kYzn**
 
