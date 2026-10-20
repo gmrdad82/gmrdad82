@@ -16,7 +16,7 @@ Dad · Senior Software Engineer · 20 years shipping · Rust · Founder, PITO MD
 
 ## About
 
-986 of 2600 characters.
+993 of 2600 characters.
 
 ```text
 Dad first. Then engineer, developer and gamer. Tryhard creator by night. Slop hater always.
@@ -27,7 +27,7 @@ These days I build engines to power games and apps like Inbox0, Splicer, Dispatc
 
 · Splicer 1.0, my video cutter: cut your videos very fast from their transcripts.
 · pfx, the game and render engine, open source: github.com/gmrdad82/pfx
-· Manfred, a scene tool on pfx, open source: github.com/gmrdad82/manfred
+· Manfred, my recorder. Just press 🔴 REC. Never lose a take. pitomd.com/manfred
 · pito-tui and its crates, the terminal UI every PITO MD tool runs on.
 
 I film the work on YouTube as Soft Reset: releases, devlogs, gameplay and the honest bits in between. youtube.com/@S0FTR3S3T
@@ -83,18 +83,18 @@ URL, 31 characters:
 https://github.com/gmrdad82/pfx
 ```
 
-### 2. Manfred: a scene tool on pfx
+### 2. Manfred: Just press 🔴 REC. Never lose a take.
 
-Title, 28 characters:
+Title, 45 characters:
 
 ```text
-Manfred: a scene tool on pfx
+Manfred: Just press 🔴 REC. Never lose a take.
 ```
 
-URL, 35 characters:
+URL, 27 characters:
 
 ```text
-https://github.com/gmrdad82/manfred
+https://pitomd.com/manfred/
 ```
 
 ## Steps
