@@ -1,10 +1,16 @@
-<p align="center"><img src="assets/pfx-turntable.gif" width="720" alt="pfx's path tracer on its sample shot: a grey sphere and a grey ring turning back and forth over a dark floor in soft light"></p>
+<p align="center"><img src="assets/mustang-cold-start.webp" width="360" alt="A black Mustang GT on a city street at sunrise, vapour rolling off it as the V8 starts and revs, rendered in pfx"></p>
 
-# Catalin Ilinca
+# Gamer Dad
 
-> Engineer by trade. Tryhard creator by night. Slop hater always.
+Catalin Ilinca
 
-Got questions or doubts? Ping me on Discord: https://discord.gg/XsNcn3kYzn
+> I'm building tools for my dreams. I'm not dreaming for my tools.
+
+Engineer by trade. Tryhard creator by night. Slop hater always.
+
+**Got questions or doubts? Ping me on Discord: https://discord.gg/XsNcn3kYzn**
+
+[![Discord](https://img.shields.io/badge/Discord-ping%20me-5865F2?logo=discord&logoColor=white)](https://discord.gg/XsNcn3kYzn) [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=githubsponsors)](https://github.com/sponsors/gmrdad82)
 
 ```
 $ whoami
@@ -21,22 +27,20 @@ Gamer Dad (gmrdad82)
 
 ```
 $ ./pito --now
-> Splicer      # cuts my videos from their transcripts. freaking fast.
-> Manfred      # the recorder. just press 🔴 REC. never lose a take.
-> P99          # issue and feedback reports for any website.
-> Inbox0       # a roguelite drawn as a mail client. coming to Steam.
-> pfx          # the game and render engine under it. rust, gpu, a path tracer.
+> Splicer      # Cut fast. Freaking fast.
+> Manfred      # Just press 🔴 REC. Never lose a take.
+> P99          # issue and feedback reporter for any website; extremely highly opinionated: it runs on Cloudflare
+> Inbox0       # Your inbox is a bullet hell. Coming to Steam.
+> pfx          # Freaking fast, light and simple.
 ```
-
-<a href="https://github.com/gmrdad82/pfx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pfx-powered-by-128.png"><source media="(prefers-color-scheme: light)" srcset="assets/pfx-powered-by-light-128.png"><img src="assets/pfx-powered-by-light-128.png" height="40" alt="Powered by pfx"></picture></a>
-
-Every PITO MD repo has its own agent session. They ask each other for what they need, gate their own work and ship signed releases. I set the direction and say go.
 
 Apps: [Splicer](https://pitomd.com/splicer/) · [Manfred](https://pitomd.com/manfred/) · [P99](https://pitomd.com/p99/) · Game: [Inbox0](https://pitomd.com/inbox0/) · Engine: [pfx](https://github.com/gmrdad82/pfx)
 
 Open source: [pito-codecs](https://github.com/gmrdad82/pito-codecs) · [pito-compare](https://github.com/gmrdad82/pito-compare) · [prec](https://github.com/gmrdad82/prec) · [pito-tui](https://github.com/gmrdad82/pito-tui) and its crates · [pito-embed](https://github.com/gmrdad82/pito-embed) · [pito-renew](https://github.com/gmrdad82/pito-renew) · [pitomd.com](https://pitomd.com)
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=githubsponsors)](https://github.com/sponsors/gmrdad82)
+<a href="https://github.com/gmrdad82/pfx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pfx-powered-by-128.png"><source media="(prefers-color-scheme: light)" srcset="assets/pfx-powered-by-light-128.png"><img src="assets/pfx-powered-by-light-128.png" height="40" alt="Powered by pfx"></picture></a>
+
+▸ Latest on the blog: [Why I built my own engine](https://pitomd.com/blog/why-i-built-my-own-engine/)
 
 ## How it started
 

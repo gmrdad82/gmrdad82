@@ -1,0 +1,21 @@
+assets/mustang-cold-start.webp is the cold-start clip from the PITO MD blog post
+"Why I built my own engine" (https://pitomd.com/blog/why-i-built-my-own-engine/),
+mustang-cold-start.mp4 (sha256 ad33d3d10529a2f65c9bedfd74442d75f0ce4cc10e3e16e3ca5755810c2b851b),
+rendered in pfx and made an animated WebP with pcod (pito-codecs) at 720x1280, 15 fps.
+The render and the film are © 2026 Cătălin Ilinca. The PITO MD and pfx names and
+logos are © 2026 Cătălin Ilinca, all rights reserved.
+
+The 3D models in it are under Creative Commons Attribution 4.0
+(http://creativecommons.org/licenses/by/4.0/), some modified:
+- "City Building Downtown 03" (https://sketchfab.com/3d-models/city-building-downtown-03-45579f49613f445f9df7043885c57740) by jimbogies (https://sketchfab.com/jimbogies) is licensed under Creative Commons Attribution 4.0 (http://creativecommons.org/licenses/by/4.0/); modified (scaled to metres, ground slab removed, textures re-encoded, materials renamed).
+- "City Building Downtown" (https://sketchfab.com/3d-models/city-building-downtown-584427486d484badb2a8b34c08b2c413) by jimbogies (https://sketchfab.com/jimbogies) is licensed under Creative Commons Attribution 4.0 (http://creativecommons.org/licenses/by/4.0/); modified (scaled to metres, ground slab removed, textures re-encoded, materials renamed).
+- "City Building Downtown 02" (https://sketchfab.com/3d-models/city-building-downtown-02-7fbeffa5e541493ba65a0ec27dd295ef) by jimbogies (https://sketchfab.com/jimbogies) is licensed under Creative Commons Attribution 4.0 (http://creativecommons.org/licenses/by/4.0/); modified (scaled to metres, ground slab removed, textures re-encoded, materials renamed).
+- "Downtown City Building 04" (https://sketchfab.com/3d-models/downtown-city-building-04-826461e0501b44db8dc3962225b1e3c5) by jimbogies (https://sketchfab.com/jimbogies) is licensed under Creative Commons Attribution 4.0 (http://creativecommons.org/licenses/by/4.0/); modified (scaled to metres, ground slab removed, textures re-encoded, materials renamed).
+- "Old Apartment Building" (https://sketchfab.com/3d-models/old-apartment-building-a2a27bec2e364496b34ae399ee93cb67) by jimbogies (https://sketchfab.com/jimbogies) is licensed under Creative Commons Attribution 4.0 (http://creativecommons.org/licenses/by/4.0/); modified (scaled to metres, ground slab removed, textures re-encoded, materials renamed).
+- "Apartment Complex Building" (https://sketchfab.com/3d-models/apartment-complex-building-fa7c256f511946fea3cd819e0f492741) by jimbogies (https://sketchfab.com/jimbogies) is licensed under Creative Commons Attribution 4.0 (http://creativecommons.org/licenses/by/4.0/); modified (scaled to metres, ground slab removed, textures re-encoded, materials renamed).
+- "Old Brick Building" (https://sketchfab.com/3d-models/old-brick-building-971199f091f84129b780f0ed89088416) by Frid.blend (https://sketchfab.com/Fridqeir) is licensed under Creative Commons Attribution 4.0 (http://creativecommons.org/licenses/by/4.0/); modified (scaled to metres, ground slab removed, textures re-encoded, materials renamed).
+- "Linden tree" (https://sketchfab.com/3d-models/linden-tree-c0c3aa73cc9945d2a36c01a0d8d6d4bb) by Georgeous (https://sketchfab.com/intice184) is licensed under Creative Commons Attribution 4.0 (http://creativecommons.org/licenses/by/4.0/); modified (rescaled to an 11 m street tree and set on its trunk base).
+- "Mustang_GT 2018" (https://sketchfab.com/3d-models/mustang-gt-2018-dd4365565b6b4e0ea6c06a1ca4113e3e) by Demonic Arts (https://sketchfab.com/Jesterz86) is licensed under Creative Commons Attribution 4.0 (http://creativecommons.org/licenses/by/4.0/); modified (the hero car: paint, glass, wheels, calipers, stance and trim changed, pony logos hidden).
+
+Courtesy, CC0 (no credit required): Poly Haven (polyhaven.com) for the road
+asphalt, street props and the HDRIs.
