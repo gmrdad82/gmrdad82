@@ -26,11 +26,11 @@ Gamer Dad (gmrdad82)
 
 ```
 $ ./pito --now
+> pfx          # Freaking fast, light and simple.
 > Splicer      # Cut fast. Freaking fast.
 > Manfred      # Just press 🔴 REC. Never lose a take.
 > P99          # issue and feedback reporter for any website; extremely highly opinionated: it runs on Cloudflare
 > Inbox0       # Your inbox is a bullet hell. Coming to Steam.
-> pfx          # Freaking fast, light and simple.
 ```
 
 Apps: [Splicer](https://pitomd.com/splicer/) · [Manfred](https://pitomd.com/manfred/) · [P99](https://pitomd.com/p99/) · Game: [Inbox0](https://pitomd.com/inbox0/) · Engine: [pfx](https://github.com/gmrdad82/pfx)
