@@ -8,27 +8,28 @@ Promotes what he builds; the kit sets the headline, About, contact websites, Fea
 
 ## Headline
 
-181 of 220 characters.
+178 of 220 characters.
 
 ```text
-Dad · Senior Software Engineer · 20 years shipping · Rust · Founder, PITO MD: building engines to power games and apps like Inbox0, Splicer, Dispatch and Paper · github.com/gmrdad82
+Dad · Senior Software Engineer · 20 years shipping · Rust · Founder, PITO MD: building engines to power games and apps like Splicer, Manfred, P99 and Inbox0 · github.com/gmrdad82
 ```
 
 ## About
 
-974 of 2600 characters.
+1048 of 2600 characters.
 
 ```text
 Dad first. Then engineer, developer and gamer. Tryhard creator by night.
 
 I've been shipping software since 2006: freelance first, then lead developer and tech lead in ad-tech, four years as a consultant at Thoughtworks, and senior engineering through Toptal since 2024. Spain has been home since 2022.
 
-These days I build engines to power games and apps like Inbox0, Splicer, Dispatch and Paper. That's PITO MD, all in Rust. What's on the bench:
+These days I build engines to power games and apps like Splicer, Manfred, P99 and Inbox0. That's PITO MD, all in Rust. What's on the bench:
 
-· Splicer 1.0, my video cutter: cut your videos very fast from their transcripts.
-· pfx, the game and render engine, open source: github.com/gmrdad82/pfx
+· pfx, the game and render engine. Freaking fast, light and simple. pitomd.com/pfx
+· Splicer, my video cutter. Cut fast. Freaking fast. pitomd.com/splicer
 · Manfred, my recorder. Just press 🔴 REC. Never lose a take. pitomd.com/manfred
-· pito-tui and its crates, the terminal UI every PITO MD tool runs on.
+· P99, issue and feedback reports for any website, on Cloudflare. pitomd.com/p99
+· Inbox0, my game. Your inbox is a bullet hell. pitomd.com/inbox0
 
 I film the work on YouTube as Soft Reset: releases, devlogs, gameplay and the honest bits in between. youtube.com/@S0FTR3S3T
 
