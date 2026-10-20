@@ -20,7 +20,6 @@ Gamer Dad (gmrdad82)
 > ai stance           // agentic. agents get pages, i get the last word
 > youtuber            // Soft Reset: releases, devlogs, gameplay
 > based in            // spain (since 2022)
-> slop tolerance      // 0.00
 ```
 
 ## PITO MD — the things I build
