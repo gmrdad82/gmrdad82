@@ -32,7 +32,7 @@ $ ./pito --now
 
 Every PITO MD repo has its own agent session. They ask each other for what they need, gate their own work and ship signed releases. I set the direction and say go.
 
-Apps: [Splicer](https://pitomd.com/splicer/) · [Manfred](https://pitomd.com/manfred/) · [P99](https://pitomd.com/p99/) · Engine: [pfx](https://github.com/gmrdad82/pfx)
+Apps: [Splicer](https://pitomd.com/splicer/) · [Manfred](https://pitomd.com/manfred/) · [P99](https://pitomd.com/p99/) · Game: [Inbox0](https://pitomd.com/inbox0/) · Engine: [pfx](https://github.com/gmrdad82/pfx)
 
 Open source: [pito-codecs](https://github.com/gmrdad82/pito-codecs) · [pito-compare](https://github.com/gmrdad82/pito-compare) · [prec](https://github.com/gmrdad82/prec) · [pito-tui](https://github.com/gmrdad82/pito-tui) and its crates · [pito-embed](https://github.com/gmrdad82/pito-embed) · [pito-renew](https://github.com/gmrdad82/pito-renew) · [pitomd.com](https://pitomd.com)
 
