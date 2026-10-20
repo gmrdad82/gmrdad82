@@ -37,7 +37,7 @@ Engine: [pfx](https://github.com/gmrdad82/pfx) · Apps: [Splicer](https://pitomd
 
 Open source: [pito-codecs](https://github.com/gmrdad82/pito-codecs) · [pito-compare](https://github.com/gmrdad82/pito-compare) · [prec](https://github.com/gmrdad82/prec) · [pito-tui](https://github.com/gmrdad82/pito-tui) and its crates · [pito-embed](https://github.com/gmrdad82/pito-embed) · [pito-renew](https://github.com/gmrdad82/pito-renew) · [pitomd.com](https://pitomd.com)
 
-<a href="https://github.com/gmrdad82/pfx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pfx-powered-by-128.png"><source media="(prefers-color-scheme: light)" srcset="assets/pfx-powered-by-light-128.png"><img src="assets/pfx-powered-by-light-128.png" height="40" alt="Powered by pfx"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/powered-by-128.png"><img src="assets/powered-by-light-128.png" height="40" alt="Powered by pfx"></picture>
 
 ▸ Latest on the blog: [Why I built my own engine](https://pitomd.com/blog/why-i-built-my-own-engine/)
 
