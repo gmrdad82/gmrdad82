@@ -59,6 +59,12 @@ $ git log --oneline rails
 [YouTube](https://www.youtube.com/@S0FTR3S3T) · [X](https://x.com/GamerDady82) · [LinkedIn](https://www.linkedin.com/in/catalinilinca) · [Discord](https://discord.gg/XsNcn3kYzn) · [pitomd.com](https://pitomd.com)
 
 ```
-$ cat ~/.signature
-> if it reads like gpt, i didn't write it.
+$ cat ~/.quotes
+> I'm building tools for my dreams. I'm not dreaming for my tools.
+> I hope I'm not alone in my stupidity.
+> Do shit, share it with others. That's it.
+> Not what I could build, only faster, but what I dreamed of.
+> I stopped searching and I started building.
+> Cut fast. Freaking fast.
+> It's never one or the other. It's both.
 ```
