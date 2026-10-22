@@ -67,4 +67,5 @@ $ cat ~/.quotes
 > I stopped searching and I started building.
 > Cut fast. Freaking fast.
 > It's never one or the other. It's both.
+> Everyone can do it, but not everyone will.
 ```
